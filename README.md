@@ -9,8 +9,3 @@
 - **Java** development and problem-solving  
 - **CRM** strategies and best practices  
 - **Systems Integration** for seamless tech experiences  
-
-## 💞️ Collaboration  
-- Open to working on Java projects and CRM-based solutions  
-- Excited about contributing to open-source projects 🎯  
-
