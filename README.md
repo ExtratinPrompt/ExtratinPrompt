@@ -1,11 +1,28 @@
-# Hey there, I'm **@ExtratinPrompt**
-## My Interest
+# Hey there, I'm **@ExtratinPrompt** 👋
 
-- Building responsive and interactive web applications 
-- Exploring modern JavaScript frameworks and libraries 
-- Creating seamless user experiences with clean, efficient code 
+<div align="center">
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-zcu89cf84WYUmRwk6UOO9Ug4jbhYNv.png" alt="Anime Developer" width="300"/>
+</div>
 
-## Currently Learning
+## 📊 GitHub Stats & Streak
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ExtratinPrompt&theme=radical&hide_border=true)
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ExtratinPrompt&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtratinPrompt&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 🚀 My Interest
+
+- 🌐 Building responsive and interactive web applications 
+- ⚡ Exploring modern JavaScript frameworks and libraries 
+- 🎨 Creating seamless user experiences with clean, efficient code 
+
+## 📚 Currently Learning
 
 - **TypeScript** for type-safe JavaScript development
 - **Node.js** backend development and API design
@@ -24,9 +41,34 @@
 
 ## 🛠 What I'm Building
 
-- Modern web applications with clean, maintainable code
-- Responsive designs that work across all devices
-- Full-stack solutions from frontend to backend
+- 🔥 Modern web applications with clean, maintainable code
+- 📱 Responsive designs that work across all devices
+- 🚀 Full-stack solutions from frontend to backend
 
+## 📈 Contribution Graph
 
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ExtratinPrompt&theme=react-dark&hide_border=true)
 
+</div>
+
+## 🤝 Connect with me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=ExtratinPrompt&color=blueviolet&style=for-the-badge)
+  
+  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+
+</div>
