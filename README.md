@@ -34,15 +34,6 @@
 - Responsive designs that work across all devices
 - Full-stack solutions from frontend to backend
 
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ExtratinPrompt&theme=react-dark&hide_border=true)
-
-</div>
-
 ## 🤝 Connect with me
 
 <div align="center">
