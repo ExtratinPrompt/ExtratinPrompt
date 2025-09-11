@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **@ExtratinPrompt**
+# Hey there, I'm **@ExtratinPrompt**
 ## My Interest
 
 - Building responsive and interactive web applications 
@@ -28,6 +28,5 @@
 - Responsive designs that work across all devices
 - Full-stack solutions from frontend to backend
 
-## 📫 Let's Connect!
 
 
