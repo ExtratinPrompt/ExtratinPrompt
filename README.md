@@ -3,10 +3,7 @@
   <img src="https://i.pinimg.com/originals/11/1d/0d/111d0d822f1870b37ef735bffcce0e86.png" alt="Profile Picture" width="120" height="120" style="border-radius: 50%;">
 </p>
 
-# Hey there, I'm @ExtratinPrompt <!-- Profile Picture -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/11/1d/0d/111d0d822f1870b37ef735bffcce0e86.png" alt="Profile Picture" width="120" height="120" style="border-radius: 50%;">
-</p>
+# Hey there, I'm @ExtratinPrompt:>
 
 ## My Interest
 
