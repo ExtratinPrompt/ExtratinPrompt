@@ -2,13 +2,13 @@
 
 
 
-## 🚀 My Interest
+##  My Interest
 
-- 🌐 Building responsive and interactive web applications 
-- ⚡ Exploring modern JavaScript frameworks and libraries 
-- 🎨 Creating seamless user experiences with clean, efficient code 
+-  Building responsive and interactive web applications 
+-  Exploring modern JavaScript frameworks and libraries 
+-  Creating seamless user experiences with clean, efficient code 
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - **TypeScript** for type-safe JavaScript development
 - **Node.js** backend development and API design
