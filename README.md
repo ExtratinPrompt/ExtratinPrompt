@@ -1,14 +1,11 @@
 # 👋 Hey there, I'm **@ExtratinPrompt**
+## My Interest
 
-🚀 **Full-stack developer, web enthusiast, and code craftsman**
+- Building responsive and interactive web applications 
+- Exploring modern JavaScript frameworks and libraries 
+- Creating seamless user experiences with clean, efficient code 
 
-## 👀 Interests
-
-- Building responsive and interactive web applications 🌐
-- Exploring modern JavaScript frameworks and libraries ⚡
-- Creating seamless user experiences with clean, efficient code ✨
-
-## 🌱 Currently Learning
+## Currently Learning
 
 - **TypeScript** for type-safe JavaScript development
 - **Node.js** backend development and API design
@@ -25,7 +22,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🛠️ What I'm Building
+## 🛠 What I'm Building
 
 - Modern web applications with clean, maintainable code
 - Responsive designs that work across all devices
@@ -33,8 +30,4 @@
 
 ## 📫 Let's Connect!
 
-Always excited to collaborate on interesting projects and learn from fellow developers!
 
----
-
-*"Code is like humor. When you have to explain it, it's bad."* 💭
