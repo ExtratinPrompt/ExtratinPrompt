@@ -3,20 +3,20 @@
   <img src="https://i.pinimg.com/originals/11/1d/0d/111d0d822f1870b37ef735bffcce0e86.png" alt="Profile Picture" width="120" height="120" style="border-radius: 50%;">
 </p>
 
-# Hey there, I'm **@ExtratinPrompt** 👋
+# Hey there, I'm @ExtratinPrompt 👋
 
 ## My Interest
 
-- Building responsive and interactive web applications 
-- Exploring modern JavaScript frameworks and libraries 
-- Creating seamless user experiences with clean, efficient code 
+-  Building responsive and interactive web applications 
+-  Exploring modern JavaScript frameworks and libraries 
+-  Creating seamless user experiences with clean, efficient code 
 
 ## Currently Learning
 
-- **TypeScript** for type-safe JavaScript development
-- **Node.js** backend development and API design
-- **Python** for versatile programming solutions
-- **Tailwind CSS** for rapid, utility-first styling
+- TypeScript for type-safe JavaScript development
+- Node.js backend development and API design
+- Python for versatile programming solutions
+- Tailwind CSS for rapid, utility-first styling
 
 ## 💻 Tech Stack
 
@@ -34,16 +34,22 @@
 - Responsive designs that work across all devices
 - Full-stack solutions from frontend to backend
 
+
 ## 📈 Contribution Graph
 
 <div align="center">
+  
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ExtratinPrompt&theme=react-dark&hide_border=true)
+
 </div>
 
 ## 🤝 Connect with me
 
 <div align="center">
+  
+
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chris.10n/)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Chris10n)
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Chris.10tin)
+
 </div>
