@@ -1,9 +1,26 @@
-## Hi Im Christine Praise C. Laput
+# Hey there, I'm **@ExtratinPrompt** 👋
+
+<div align="center">
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-zcu89cf84WYUmRwk6UOO9Ug4jbhYNv.png" alt="Anime Developer" width="300"/>
+</div>
+
+## 📊 GitHub Stats & Streak
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ExtratinPrompt&theme=radical&hide_border=true)
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ExtratinPrompt&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtratinPrompt&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
 ## 🚀 My Interest
 
--  Building responsive and interactive web applications 
--  Exploring modern JavaScript frameworks and libraries 
--  Creating seamless user experiences with clean, efficient code 
+- 🌐 Building responsive and interactive web applications 
+- ⚡ Exploring modern JavaScript frameworks and libraries 
+- 🎨 Creating seamless user experiences with clean, efficient code 
 
 ## 📚 Currently Learning
 
@@ -42,8 +59,19 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chris.10n/)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Chris10n)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/your-facebook-username)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
 
 </div>
 
+---
 
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=ExtratinPrompt&color=blueviolet&style=for-the-badge)
+  
+  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+
+</div>
