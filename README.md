@@ -54,10 +54,4 @@
 
 ---
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ExtratinPrompt&color=blueviolet&style=for-the-badge)
-  
-  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
 
-</div>
