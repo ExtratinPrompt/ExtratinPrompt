@@ -1,12 +1,12 @@
 # Hey there, I'm **@ExtratinPrompt** 👋
 
-## 🚀 My Interest
+## My Interest
 
 - 🌐 Building responsive and interactive web applications 
 - ⚡ Exploring modern JavaScript frameworks and libraries 
 - 🎨 Creating seamless user experiences with clean, efficient code 
 
-## 📚 Currently Learning
+## Currently Learning
 
 - **TypeScript** for type-safe JavaScript development
 - **Node.js** backend development and API design
@@ -25,9 +25,9 @@
 
 ## 🛠 What I'm Building
 
-- 🔥 Modern web applications with clean, maintainable code
-- 📱 Responsive designs that work across all devices
-- 🚀 Full-stack solutions from frontend to backend
+- Modern web applications with clean, maintainable code
+- Responsive designs that work across all devices
+- Full-stack solutions from frontend to backend
 
 
 ## 📈 Contribution Graph
