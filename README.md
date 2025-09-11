@@ -1,16 +1,4 @@
 
-## 📊 GitHub Stats & Streak
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ExtratinPrompt&theme=radical&hide_border=true)
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ExtratinPrompt&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtratinPrompt&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ## 🚀 My Interest
 
 - 🌐 Building responsive and interactive web applications 
@@ -58,12 +46,4 @@
 
 </div>
 
----
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ExtratinPrompt&color=blueviolet&style=for-the-badge)
-  
-  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
-
-</div>
