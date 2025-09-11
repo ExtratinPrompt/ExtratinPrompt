@@ -4,17 +4,7 @@
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-zcu89cf84WYUmRwk6UOO9Ug4jbhYNv.png" alt="Anime Developer" width="300"/>
 </div>
 
-## 📊 GitHub Stats & Streak
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ExtratinPrompt&theme=radical&hide_border=true)
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ExtratinPrompt&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtratinPrompt&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ## 🚀 My Interest
 
