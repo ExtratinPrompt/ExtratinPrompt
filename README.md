@@ -37,14 +37,6 @@
 
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ExtratinPrompt&theme=react-dark&hide_border=true)
-
-</div>
-
 ## 🤝 Connect with me
 
 <div align="center">
@@ -58,37 +50,3 @@
 
 </div>
 
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ExtratinPrompt&color=blueviolet&style=for-the-badge)
-  
-  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
-
-</div>
-
-<!-- Added content from text attachment below -->
-
----
-
-## 🎯 Additional Goals & Interests
-
--  Building responsive and interactive web applications 
--  Exploring modern JavaScript frameworks and libraries 
--  Creating seamless user experiences with clean, efficient code 
-
-## 📖 Learning Journey
-
-- **TypeScript** for type-safe JavaScript development
-- **Node.js** backend development and API design
-- **Python** for versatile programming solutions
-- **Tailwind CSS** for rapid, utility-first styling
-
-## 🚀 What I Want to Build and Goal
-
-- Modern web applications 
-- Responsive designs that work across all devices
-- Full-stack solutions from frontend to backend
-
----
