@@ -25,11 +25,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🛠 What I'm Building
+## 🛠 What i want to build and goal
 
-- 🔥 Modern web applications with clean, maintainable code
-- 📱 Responsive designs that work across all devices
-- 🚀 Full-stack solutions from frontend to backend
+- Modern web applications 
+- Responsive designs that work across all devices
+- Full-stack solutions from frontend to backend
 
 ## 📈 Contribution Graph
 
