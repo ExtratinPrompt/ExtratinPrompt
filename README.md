@@ -1,8 +1,3 @@
-# Hey there, I'm **@ExtratinPrompt** 👋
-
-<div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-zcu89cf84WYUmRwk6UOO9Ug4jbhYNv.png" alt="Anime Developer" width="300"/>
-</div>
 
 ## 📊 GitHub Stats & Streak
 
