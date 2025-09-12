@@ -29,13 +29,13 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🛠 What I'm Building
+## What I'm Building
 
 - Modern web applications with clean, maintainable code
 - Responsive designs that work across all devices
 - Full-stack solutions from frontend to backend
 
-## 🤝 Connect with me
+## Connect with me
 
 <div align="center">
   
@@ -47,7 +47,6 @@
 </div>
 
 
-## 🐍 Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExtratinPrompt/ExtratinPrompt/output/github-contribution-grid-snake-dark.svg">
