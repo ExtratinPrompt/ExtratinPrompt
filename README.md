@@ -37,10 +37,7 @@
 
 ## Connect with me
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)  
-[![Discord](https://img.shields.io/badge/Discord-tin10n-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1282738448087912449)
+<div align="right">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chris.10n/)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Chris10n)  
