@@ -39,11 +39,12 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-[![Discord](https://img.shields.io/badge/Discord-tin10n-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1282738448087912449)
-[Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chris.10n/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Chris10n)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)  
+[![Discord](https://img.shields.io/badge/Discord-tin10n-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1282738448087912449)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chris.10n/)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Chris10n)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Chris.10tin)
+
 
 
 <picture>
