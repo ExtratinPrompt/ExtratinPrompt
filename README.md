@@ -1,3 +1,12 @@
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 <!-- Profile Picture -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/11/1d/0d/111d0d822f1870b37ef735bffcce0e86.png" alt="Profile Picture" width="120" height="120" style="border-radius: 50%;">
