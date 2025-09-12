@@ -47,7 +47,7 @@
 </div>
 
 
-## 🐍 Contribution Snake
+## 🐍 Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExtratinPrompt/ExtratinPrompt/output/github-contribution-grid-snake-dark.svg">
