@@ -38,13 +38,22 @@
 ## Connect with me
 
 <div align="center">
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/chris.10n/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40"/>
+  </a>
   
-
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chris.10n/)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Chris10n)
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Chris.10tin)
-
+  <!-- Telegram -->
+  <a href="https://t.me/Chris10n" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" alt="Telegram" width="40" height="40"/>
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/Chris.10tin" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="40" height="40"/>
+  </a>
 </div>
+
 
 
 <picture>
