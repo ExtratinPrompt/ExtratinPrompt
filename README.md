@@ -37,7 +37,6 @@
 
 ## Connect with me
 
-
 <div align="center">
   <a href="https://www.instagram.com/chris.10n/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/ffffff/E4405F" 
@@ -54,7 +53,6 @@
          alt="Facebook" width="40" height="40" style="border-radius:8px;"/>
   </a>
 </div>
-
 
 
 
