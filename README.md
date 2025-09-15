@@ -36,6 +36,8 @@
 - Full-stack solutions from frontend to backend
 
 ## Connect with me
+
+
 <div align="center" style="display: flex; gap: 20px; justify-content: center;">
 
   <!-- Instagram -->
@@ -60,6 +62,7 @@
   </a>
 
 </div>
+
 
 
 
