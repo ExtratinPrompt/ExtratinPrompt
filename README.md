@@ -38,30 +38,23 @@
 ## Connect with me
 
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center;">
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/chris.10n/" target="_blank" style="text-align: center; text-decoration: none; color: inherit;">
+<div align="center">
+  <a href="https://www.instagram.com/chris.10n/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/ffffff/E4405F" 
          alt="Instagram" width="40" height="40" style="border-radius:8px;"/>
-    <div>Instagram</div>
   </a>
-
-  <!-- Telegram -->
-  <a href="https://t.me/Chris10n" target="_blank" style="text-align: center; text-decoration: none; color: inherit;">
+  
+  <a href="https://t.me/Chris10n" target="_blank">
     <img src="https://cdn.simpleicons.org/telegram/ffffff/2CA5E0" 
          alt="Telegram" width="40" height="40" style="border-radius:8px;"/>
-    <div>Telegram</div>
   </a>
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/Chris.10tin" target="_blank" style="text-align: center; text-decoration: none; color: inherit;">
+  
+  <a href="https://www.facebook.com/Chris.10tin" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/ffffff/1877F2" 
          alt="Facebook" width="40" height="40" style="border-radius:8px;"/>
-    <div>Facebook</div>
   </a>
-
 </div>
+
 
 
 
