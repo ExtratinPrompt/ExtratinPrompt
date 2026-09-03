@@ -78,7 +78,7 @@ By bridging **Web Development**, **UI/UX**, and **Visual Design**, I transform i
 
 <br>
 
-<!-- DEVELOPMENT & DESIGN OVERVIEW -->
+<!-- DEVELOPMENT & DESIGN OVERVIEW WITH REAL ICONS -->
 <div align="center">
 
 ## Expertise & Capabilities
@@ -89,42 +89,65 @@ By bridging **Web Development**, **UI/UX**, and **Visual Design**, I transform i
 
 ### Development
 
-**Frontend**  
-`HTML` · `CSS` · `JavaScript`  
-`TypeScript` · `React` · `Tailwind CSS`  
+**Frontend**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="24" height="24" alt="Tailwind CSS" />
+<br>
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Tailwind`
 
 <br>
 
-**Backend**  
-`Node.js` · `Express.js`  
-`REST APIs` · `Laravel` · `PHP`  
+**Backend**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" height="24" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="24" height="24" alt="Express.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="24" height="24" alt="Laravel" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24" height="24" alt="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python" />
+<br>
+`Node.js` · `Express` · `REST APIs` · `Laravel` · `PHP` · `Python`
 
 <br>
 
-**Database**  
-`MongoDB` · `MySQL` · `Firebase`  
-`Firestore` · `Supabase` · `SQL`  
+**Database**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" height="24" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="24" height="24" alt="Firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="24" height="24" alt="Supabase" />
+<br>
+`MongoDB` · `MySQL` · `Firebase` · `Supabase` · `SQL`
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### Design & Workflow
 
-**Design Tools**  
-<img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design Tools"><br>
-`Figma` · `Photoshop` · `Canva` · `Photopea`  
+**Design Tools**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24" height="24" alt="Figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="24" height="24" alt="Photoshop" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="24" height="24" alt="Canva" />
+<br>
+`Figma` · `Photoshop` · `Canva` · `Photopea`
 
 <br>
 
-**Focus Areas**  
+**Focus Areas**<br>
 `UI/UX Design` · `Wireframing`  
 `Prototyping` · `Responsive Layouts`  
-`Visual Systems`  
+`Visual Systems`
 
 <br>
 
-**Dev Workflow**  
-`Git` · `GitHub` · `VS Code` · `Postman` · `Cursor`  
+**Dev Workflow**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" height="24" alt="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="24" height="24" alt="Postman" />
+<br>
+`Git` · `GitHub` · `VS Code` · `Postman` · `Cursor`
 
 </td>
 </tr>
@@ -207,11 +230,11 @@ By bridging **Web Development**, **UI/UX**, and **Visual Design**, I transform i
 
 | Category | Technologies / Capabilities |
 | :--- | :--- |
-| **Programming** | HTML, CSS, JavaScript, TypeScript, Python, PHP, SQL |
-| **Web Development** | React, Node.js, Express.js, MERN Stack, REST APIs, Laravel |
-| **Database & Cloud** | MongoDB, MySQL, Firebase, Firestore, Supabase |
-| **Design & Media** | Figma, Photoshop, Canva, Photopea, Animaker |
-| **Networking & Systems** | Cisco Packet Tracer, IP Addressing, Router & Switch Configuration |
+| **Programming** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18" height="18" alt="HTML" /> HTML &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18" height="18" alt="CSS" /> CSS &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" height="18" alt="JS" /> JavaScript &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" height="18" alt="TS" /> TypeScript &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" height="18" alt="Python" /> Python &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="18" height="18" alt="PHP" /> PHP |
+| **Web Development** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" height="18" alt="React" /> React &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" height="18" alt="Node" /> Node.js &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18" height="18" alt="Express" /> Express.js &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="18" height="18" alt="Laravel" /> Laravel |
+| **Database & Cloud** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18" height="18" alt="Mongo" /> MongoDB &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18" height="18" alt="MySQL" /> MySQL &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="18" height="18" alt="Firebase" /> Firebase &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="18" height="18" alt="Supabase" /> Supabase |
+| **Design & Media** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="18" height="18" alt="Figma" /> Figma &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="18" height="18" alt="Photoshop" /> Photoshop &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="18" height="18" alt="Canva" /> Canva |
+| **Networking & Systems** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="18" height="18" alt="Cisco" /> Cisco Packet Tracer · IP Addressing · Router & Switch Configuration |
 
 </details>
 
