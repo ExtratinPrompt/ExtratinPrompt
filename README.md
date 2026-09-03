@@ -1,119 +1,205 @@
-
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/11/1d/0d/111d0d822f1870b37ef735bffcce0e86.png" width="110" height="110" style="border-radius:50%;" alt="Christine's Profile Picture">
+<img src="https://i.pinimg.com/originals/11/1d/0d/111d0d822f1870b37ef735bffcce0e86.png" width="115" height="115" style="border-radius:50%;" alt="Christine Praise C. Laput">
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=22&duration=3500&pause=1000&color=8B5E3C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Christine+%40Chris10;BSIT+Student;Web+Developer+%26+Designer;Building+with+curiosity+%26+coffee." alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&weight=500&size=24&duration=3000&pause=900&color=6F4E37&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Christine+%40Chris10;BSIT+Student+%7C+Web+Developer;UI%2FUX+Designer+%7C+Creative;Turning+ideas+into+digital+experiences." alt="Typing introduction">
 
 <br>
 
 <p>
-  <a href="https://github.com/Chris10n">
-    <img src="https://img.shields.io/badge/GitHub-2F241F?style=flat-square&logo=github&logoColor=F5EDE6" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-OJT-8B5E3C?style=flat-square" alt="Open to OJT">
-  <img src="https://komarev.com/ghpvc/?username=Chris10n&color=8B5E3C&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://img.shields.io/badge/OPEN%20TO-OJT-6F4E37?style=for-the-badge&labelColor=2F241F" alt="Open to OJT">
+  <img src="https://komarev.com/ghpvc/?username=Chris10n&color=8B5E3C&style=for-the-badge&label=VISITORS" alt="Profile Views">
 </p>
+
+<br>
+
+<a href="https://github.com/Chris10n">
+  <img src="https://img.shields.io/badge/GITHUB-2F241F?style=flat-square&logo=github&logoColor=F5EDE6" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.instagram.com/chris.10n/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-8B5E3C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+&nbsp;
+<a href="mailto:extratintin0@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-C27A45?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&section=header" width="100%" alt="Divider">
+
+---
+
+<div align="center">
+
+## HELLO, WORLD.
+
+**A developer who loves building things that look good and work well.**
+
+</div>
+
+<br>
+
+## About Me
+
+I'm **Christine Praise C. Laput**, a **Bachelor of Science in Information Technology student** passionate about creating useful, intuitive, and visually engaging digital experiences.
+
+My interests sit between **development and design** — from building responsive web applications and APIs to designing interfaces and visual assets.
+
+I enjoy learning by building, experimenting with new technologies, and turning ideas into something people can actually use.
+
+<div align="center">
+
+`DEVELOP`   `DESIGN`   `LEARN`   `CREATE`
 
 </div>
 
 ---
 
-## `01` — About Me
-
-Hi! I'm **Christine Praise C. Laput**, a **BS Information Technology student** interested in building practical, user-friendly digital experiences.
-
-I enjoy working across **web development, UI/UX design, backend development, and creative design**. I like turning ideas into clean interfaces and functional applications while continuously learning new technologies.
-
-> **Design with purpose. Build with curiosity.**
-
----
-
-## `02` — What I Do
+## What I Do
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### Development
 
-* Responsive web applications
-* Frontend & backend development
-* REST APIs
-* Database integration
-* Authentication systems
-* Firebase applications
+```text
+Frontend
+├── HTML / CSS
+├── JavaScript / TypeScript
+├── React
+└── Responsive UI
+
+Backend
+├── Node.js
+├── Express.js
+├── REST APIs
+└── Authentication
+
+Database
+├── MongoDB
+├── MySQL
+├── Firebase
+└── Firestore
+```
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Design
 
-* UI/UX prototyping
-* Figma designs
-* Graphic design
-* User-centered interfaces
-* Branding & visual content
-* Responsive layouts
+```text
+UI / UX
+├── Figma
+├── Wireframing
+├── Prototyping
+└── Responsive Design
+
+Creative
+├── Photoshop
+├── Canva
+├── Photopea
+└── Visual Design
+```
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## `03` — Tech Stack
+## Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php" alt="Languages">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,sql" alt="Programming Languages">
 
-### Frameworks & Backend
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,tailwind" alt="Frameworks">
+### Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,tailwind" alt="Development Technologies">
+
+<br><br>
 
 ### Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" alt="Database and Cloud">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" alt="Database and Cloud Technologies">
+
+<br><br>
 
 ### Tools & Design
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop" alt="Tools">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop" alt="Tools and Design">
 
 </div>
 
 ---
 
-## `04` — Featured Project
+## Featured Project
 
 <div align="center">
 
-### FlexUnif
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=6F4E37&height=100&section=header&text=FlexUnif&fontSize=35&fontColor=F5EDE6&animation=fadeIn" width="80%" alt="FlexUnif">
 
-**Church Uniform Inventory Management System with AI-Assisted Demand Forecasting**
+### Church Uniform Inventory Management System
+
+**with AI-Assisted Demand Forecasting**
 
 </div>
 
-FlexUnif is an inventory management system designed to help manage uniform stocks, monitor inventory movement, and provide demand forecasting insights.
+FlexUnif is an inventory management system designed to simplify uniform inventory tracking while providing forecasting insights for future demand.
 
-**Highlights**
+<table>
+<tr>
+<td width="50%">
+
+**Core Features**
 
 * Role-based authentication
-* Firebase Authentication & Firestore
-* Inventory monitoring dashboard
-* Automated stock alerts
-* AI-assisted demand forecasting
-* UI/UX designed in Figma
-* Responsive web & mobile experience
+* Inventory management
+* Stock monitoring
+* Automated alerts
+* Inventory history
+* Demand forecasting
+
+</td>
+
+<td width="50%">
+
+**Technologies**
+
+* React
+* Node.js
+* Firebase
+* Firestore
+* JavaScript
+* Figma
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`UI/UX`   •   `FULL STACK`   •   `FIREBASE`   •   `FORECASTING`
+
+</div>
 
 ---
 
-## `05` — Experience
+## Experience
 
 ### Graphic Designer
 
@@ -121,51 +207,83 @@ FlexUnif is an inventory management system designed to help manage uniform stock
 
 `2024 — Present`
 
-* Created branding materials and social media graphics
-* Designed UI mockups and visual assets
-* Collaborated with clients and teams
-* Translated ideas into clean visual concepts
+Designed branding materials, social media graphics, UI mockups, and other digital assets while collaborating with clients and creative teams.
 
+<br>
 
-## `06` — Education
+### Customer Service Representative
 
-**Bachelor of Science in Information Technology**
+**TELUS**
+
+`2021 — 2023`
+
+Handled customer concerns while maintaining quality, productivity, communication, and problem-solving standards.
+
+---
+
+## Education
+
+### Bachelor of Science in Information Technology
+
 **New Era University**
 
 `2023 — Present`
 
-**Thesis:**
+**Research / Thesis**
+
 *Inventory System of Ka. Margie Maganda with Smart Forecasting*
 
 ---
 
-## `07` — Currently Learning
+## Currently Learning
 
 <div align="center">
 
-`TypeScript` · `Node.js` · `Python` · `Tailwind CSS` · `Cloud Development`
-
-</div>
-
----
-
-## `08` — GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chris10n&show_icons=true&hide_border=true&bg_color=FAF7F2&title_color=6F4E37&text_color=4A3B32&icon_color=8B5E3C&count_private=true" alt="GitHub Stats">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris10n&layout=compact&hide_border=true&bg_color=FAF7F2&title_color=6F4E37&text_color=4A3B32" alt="Top Languages">
+<img src="https://skillicons.dev/icons?i=ts,nodejs,python,tailwind" alt="Currently Learning">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chris10n&hide_border=true&background=FAF7F2&ring=8B5E3C&fire=C27A45&currStreakLabel=6F4E37&sideLabels=6F4E37&dates=8B817A" alt="GitHub Streak">
+`TypeScript`   `Node.js`   `Python`   `Tailwind CSS`
 
 </div>
 
 ---
 
-## `09` — Skills
+## Beyond Code
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### UI/UX
+
+Creating interfaces that feel simple and intuitive.
+
+</td>
+
+<td align="center" width="33%">
+
+### Design
+
+Turning concepts into visual experiences.
+
+</td>
+
+<td align="center" width="33%">
+
+### Learning
+
+Always exploring better ways to build.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Skills
 
 <details>
 <summary><b>Programming & Development</b></summary>
@@ -175,7 +293,7 @@ HTML · CSS · JavaScript · TypeScript · Python · PHP · SQL
 </details>
 
 <details>
-<summary><b>Web Development</b></summary>
+<summary><b>Web & Backend</b></summary>
 
 React · Node.js · Express.js · MERN Stack · REST API · Laravel
 
@@ -211,25 +329,40 @@ Git · GitHub · VS Code · Postman · Cursor
 
 ---
 
-## `10` — Let's Connect
+## Contribution Journey
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/ExtratinPrompt/ExtratinPrompt/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+### Let's Build Something Meaningful.
+
+I'm currently **open to OJT opportunities, collaborations, and learning opportunities.**
+
+<br>
+
 <a href="https://github.com/Chris10n">
-<img src="https://img.shields.io/badge/GitHub-2F241F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://www.instagram.com/chris.10n/">
-<img src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://www.facebook.com/Chris.10tin">
-<img src="https://img.shields.io/badge/Facebook-6F4E37?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-
-<a href="mailto:extratintin0@gmail.com">
-<img src="https://img.shields.io/badge/Email-C27A45?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-2F241F?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub">
 </a>
 
 <br><br>
 
+<a href="mailto:extratintin0@gmail.com">
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-6F4E37?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in Touch">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=120&section=footer" width="100%" alt="Footer">
+
+<sub>© 2026 Christine Praise C. Laput</sub>
+
+</div>
