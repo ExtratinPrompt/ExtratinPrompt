@@ -1,118 +1,68 @@
-<div align="center">
-
-<!-- PROFILE PHOTO -->
-<img
-  src="./assets/profile-brown-border.png"
-  width="180"
-  alt="Christine Praise Laput"
->
-
-<br><br>
-
-<!-- NAME -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=170&section=header&text=Christine%20Praise%20Laput&fontSize=42&fontColor=F5EDE6&fontAlignY=40&animation=fadeIn"
-  width="100%"
-  alt="Christine Praise Laput"
->
-
-<br>
 
 <!-- TYPING ANIMATION -->
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=18&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=650&lines=Web+Developer+%26+Designer;Building+clean+digital+experiences;Code+%2B+Design+%2B+Creativity"
-  alt="Typing Animation"
->
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=18&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=650&lines=Web+Developer+%26+Designer;Building+clean+digital+experiences;Code+%2B+Design+%2B+Creativity" alt="Typing Animation">
 
 <br><br>
 
 <!-- SOCIAL LINKS -->
-<p align="center">
-
-<a href="https://github.com/Chris10n">
-<img
-  src="https://img.shields.io/badge/GitHub-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6"
-  alt="GitHub"
->
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:extratintin0@gmail.com">
-<img
-  src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6"
-  alt="Email"
->
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/chris.10n/">
-<img
-  src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=F5EDE6"
-  alt="Instagram"
->
-</a>
-
+<p>
+  <a href="https://github.com/Chris10n">
+    <img src="https://img.shields.io/badge/GitHub-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="mailto:extratintin0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6" alt="Email">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/chris.10n/">
+    <img src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=F5EDE6" alt="Instagram">
+  </a>
 </p>
 
 <br>
 
 <!-- TOP LINE -->
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=500"
-  width="500"
-  alt="Divider"
->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=500" width="500" alt="Divider">
 
 </div>
 
-<br><br>
+<br>
 
 <!-- ABOUT ME -->
 <div align="center">
 
 ## About Me
 
-<p>
-I'm <b>Christine Praise C. Laput</b>, a developer and designer who enjoys creating clean,
-<br>
+</div>
+
+<p align="center">
+I'm <b>Christine Praise C. Laput</b>, a developer and designer who enjoys creating clean,<br>
 functional, and user-friendly digital experiences.
 </p>
 
-<p>
-I combine <b>web development, UI/UX, and visual design</b> to turn ideas into practical
-<br>
+<p align="center">
+I combine <b>web development, UI/UX, and visual design</b> to turn ideas into practical<br>
 and meaningful applications.
 </p>
 
-<p>
-I enjoy learning by building, experimenting with new technologies,
-<br>
+<p align="center">
+I enjoy learning by building, experimenting with new technologies,<br>
 and continuously improving my development and design skills.
 </p>
 
 <br>
 
-<p>
-<code>DEVELOP</code>
-&nbsp;&nbsp;&nbsp;
-<code>DESIGN</code>
-&nbsp;&nbsp;&nbsp;
-<code>CREATE</code>
-</p>
+<div align="center">
 
-<br>
+`DEVELOP` &nbsp;&nbsp; `DESIGN` &nbsp;&nbsp; `CREATE`
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Section Divider"
->
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
 
 </div>
 
-<br><br>
+<br>
 
 <!-- TECH STACK -->
 <div align="center">
@@ -123,40 +73,27 @@ and continuously improving my development and design skills.
 
 ### Development
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,php"
-  alt="Development Stack"
->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,php" alt="Development Stack">
 
 <br><br>
 
 ### Database & Cloud
 
-<img
-  src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"
-  alt="Database and Cloud"
->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" alt="Database and Cloud">
 
 <br><br>
 
 ### Tools & Design
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop"
-  alt="Tools and Design"
->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop" alt="Tools and Design">
 
 <br><br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Section Divider"
->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
 
 </div>
 
-<br><br>
+<br>
 
 <!-- DEVELOPMENT -->
 <div align="center">
@@ -167,7 +104,6 @@ and continuously improving my development and design skills.
 
 <table align="center">
 <tr>
-
 <td width="300" align="center" valign="top">
 
 ### Frontend
@@ -192,11 +128,9 @@ Laravel
 PHP
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="300" align="center" valign="top">
 
 ### Database
@@ -221,21 +155,16 @@ Postman
 Cursor
 
 </td>
-
 </tr>
 </table>
 
 <br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Section Divider"
->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
 
 </div>
 
-<br><br>
+<br>
 
 <!-- DESIGN -->
 <div align="center">
@@ -244,43 +173,31 @@ Cursor
 
 <br>
 
-<img
-  src="https://skillicons.dev/icons?i=figma,photoshop"
-  alt="Design Tools"
->
+<img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design Tools">
 
 <br><br>
 
-<p>
-<code>UI/UX</code>
+`UI/UX`
 &nbsp; · &nbsp;
-<code>Wireframing</code>
+`Wireframing`
 &nbsp; · &nbsp;
-<code>Prototyping</code>
+`Prototyping`
 &nbsp; · &nbsp;
-<code>Responsive Design</code>
+`Responsive Design`
 &nbsp; · &nbsp;
-<code>Visual Design</code>
-</p>
-
-<br>
-
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=15&duration=4000&pause=1200&color=8B5E3C&center=true&vCenter=true&width=520&lines=design+should+feel+simple.;less+noise%2C+more+purpose."
-  alt="Design Animation"
->
+`Visual Design`
 
 <br><br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Section Divider"
->
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=15&duration=4000&pause=1200&color=8B5E3C&center=true&vCenter=true&width=520&lines=design+should+feel+simple.;less+noise%2C+more+purpose." alt="Design Animation">
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
 
 </div>
 
-<br><br>
+<br>
 
 <!-- EXPERIENCE -->
 <div align="center">
@@ -289,31 +206,22 @@ Cursor
 
 ### Graphic Designer
 
-<b>Freelance & Collaborative Work</b>
+**Freelance & Collaborative Work**
 
-<br>
-
-<code>2024 — Present</code>
-
-<br><br>
+`2024 — Present`
 
 <p>
-Creating branding materials, social media graphics, UI mockups,
-<br>
+Creating branding materials, social media graphics, UI mockups,<br>
 and visual assets while working with different creative concepts and requirements.
 </p>
 
 <br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Section Divider"
->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
 
 </div>
 
-<br><br>
+<br>
 
 <!-- EDUCATION -->
 <div align="center">
@@ -322,31 +230,21 @@ and visual assets while working with different creative concepts and requirement
 
 ### Bachelor of Science in Information Technology
 
-<b>New Era University</b>
+**New Era University**
+
+`2023 — Present`
+
+**Research**
+
+*Inventory System of Ka. Margie Maganda with Smart Forecasting*
 
 <br>
 
-<code>2023 — Present</code>
-
-<br><br>
-
-<b>Research</b>
-
-<p>
-<i>Inventory System of Ka. Margie Maganda with Smart Forecasting</i>
-</p>
-
-<br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Section Divider"
->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
 
 </div>
 
-<br><br>
+<br>
 
 <!-- CURRENTLY EXPLORING -->
 <div align="center">
@@ -355,34 +253,25 @@ and visual assets while working with different creative concepts and requirement
 
 <br>
 
-<img
-  src="https://skillicons.dev/icons?i=ts,nodejs,python,tailwind"
-  alt="Currently Exploring"
->
+<img src="https://skillicons.dev/icons?i=ts,nodejs,python,tailwind" alt="Currently Exploring">
 
 <br><br>
 
-<p>
-<code>TypeScript</code>
+`TypeScript`
 &nbsp; · &nbsp;
-<code>Node.js</code>
+`Node.js`
 &nbsp; · &nbsp;
-<code>Python</code>
+`Python`
 &nbsp; · &nbsp;
-<code>Tailwind CSS</code>
-</p>
+`Tailwind CSS`
 
 <br><br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Section Divider"
->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
 
 </div>
 
-<br><br>
+<br>
 
 <!-- SKILLS -->
 <div align="center">
@@ -392,9 +281,7 @@ and visual assets while working with different creative concepts and requirement
 <br>
 
 <table align="center">
-
 <tr>
-
 <td align="center" width="280">
 
 <details>
@@ -422,11 +309,9 @@ MERN Stack · REST API · Laravel
 </details>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" width="280">
 
 <details>
@@ -454,11 +339,9 @@ Canva · Photopea · Animaker
 </details>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" colspan="2">
 
 <details>
@@ -466,93 +349,23 @@ Canva · Photopea · Animaker
 
 <br>
 
-Cisco Packet Tracer · IP Addressing  
-Router Configuration · Switch Configuration
+Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configuration
 
 </details>
 
 </td>
-
 </tr>
-
 </table>
 
-<br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Footer Divider"
->
-
 </div>
 
 <br><br>
 
-<!-- FOOTER MESSAGE -->
+<!-- FOOTER -->
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Let's+create+something+interesting."
-  alt="Footer Animation"
->
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Let's+create+something+interesting." alt="Footer Animation">
 
 <br><br>
 
-<p align="center">
 
-<a href="https://github.com/Chris10n">
-<img
-  src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6"
-  alt="Explore My GitHub"
->
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:extratintin0@gmail.com">
-<img
-  src="https://img.shields.io/badge/GET%20IN%20TOUCH-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6"
-  alt="Get in Touch"
->
-</a>
-
-</p>
-
-<br><br>
-
-<!-- CONTRIBUTION SNAKE -->
-<picture>
-
-<source
-  media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake-dark.svg"
->
-
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
->
-
-<img
-  src="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
-  width="90%"
-  alt="GitHub Contribution Snake Animation"
->
-
-</picture>
-
-<br><br>
-
-</div>
-
-<!-- BOTTOM FOOTER WAVE -->
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=130&section=footer"
-  width="100%"
-  alt="Footer Wave"
->
-
-</div>
