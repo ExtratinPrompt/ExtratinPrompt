@@ -1,10 +1,37 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=180&section=header&text=Christine%20Praise%20Laput&fontSize=38&fontColor=F5EDE6&fontAlignY=35" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=180&width=850&section=header&text=Christine%20Praise%20Laput&fontSize=38&fontColor=F5EDE6&fontAlignY=35" width="850" height="180" alt="Header Banner" />
   
+  <br><br>
+
   <!-- TYPING ANIMATION -->
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=18&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=650&lines=Web+Developer+%26+Designer;Building+clean+digital+experiences;Code+%2B+Design+%2B+Creativity" alt="Typing Animation" />
 
+  <br><br>
+
+  <!-- SOCIAL BADGES -->
+  <a href="https://github.com/Chris10n">
+    <img src="https://img.shields.io/badge/GitHub-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="mailto:extratintin0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6" alt="Email">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/chris.10n/">
+    <img src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=F5EDE6" alt="Instagram">
+  </a>
+
+  <br><br>
+
+  `DEVELOP` &nbsp; • &nbsp; `DESIGN` &nbsp; • &nbsp; `CREATE`
+
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=850" width="850" alt="Divider">
+</div>
+
+<br>
 
 <!-- ABOUT ME -->
 <div align="center">
@@ -20,7 +47,7 @@ By bridging **Web Development**, **UI/UX**, and **Visual Design**, I transform i
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="100%" alt="Divider">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=850" width="850" alt="Divider">
 </div>
 
 <br>
@@ -48,7 +75,7 @@ By bridging **Web Development**, **UI/UX**, and **Visual Design**, I transform i
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="100%" alt="Divider">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=850" width="850" alt="Divider">
 </div>
 
 <br>
@@ -137,7 +164,7 @@ By bridging **Web Development**, **UI/UX**, and **Visual Design**, I transform i
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="100%" alt="Divider">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=850" width="850" alt="Divider">
 </div>
 
 <br>
@@ -180,7 +207,7 @@ By bridging **Web Development**, **UI/UX**, and **Visual Design**, I transform i
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="100%" alt="Divider">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=850" width="850" alt="Divider">
 </div>
 
 <br>
@@ -218,7 +245,7 @@ By bridging **Web Development**, **UI/UX**, and **Visual Design**, I transform i
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="100%" alt="Divider">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=850" width="850" alt="Divider">
 </div>
 
 <br>
@@ -230,6 +257,6 @@ By bridging **Web Development**, **UI/UX**, and **Visual Design**, I transform i
 
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=2F241F&height=180&width=850&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=F5EDE6&fontAlignY=65" width="850" height="180" alt="Footer Banner" />
 
 </div>
