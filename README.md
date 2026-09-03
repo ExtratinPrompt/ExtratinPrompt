@@ -1,9 +1,4 @@
-<div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=200&section=header&text=Christine%20Praise%20Laput&fontSize=42&fontColor=F5EDE6&fontAlignY=38&animation=fadeIn" width="100%" alt="Christine Praise Laput">
-
-<br>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=18&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=650&lines=Web+Developer+%26+Designer;Building+clean+digital+experiences;Code+%2B+Design+%2B+Creativity" alt="Typing Animation">
@@ -300,34 +295,4 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 
 <br><br>
 
-<!-- CONTRIBUTION SNAKE -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
-    width="95%"
-    alt="GitHub Contribution Snake Animation"
-  />
-</picture>
 
-<br><br>
-
-</div>
-
-<!-- FOOTER SHADOW / WAVE -->
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=140&section=footer&animation=fadeIn"
-  width="100%"
-  alt="Footer Wave"
->
-
-</div>
