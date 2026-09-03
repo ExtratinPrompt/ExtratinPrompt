@@ -36,7 +36,7 @@
 
 ## About Me
 
-I'm **Christine Praise C. Laput**, a web developer and designer passionate about creating clean, functional, and user-friendly digital experiences.
+I'm **Christine Praise C. Laput**, a web developer and designer passionate about functional and user-friendly digital experiences.
 
 By bridging **Web Development**, **UI/UX**, and **Visual Design**, I transform ideas into practical applications. I thrive on learning by building, experimenting with modern stacks, and continuously refining my craft.
 
