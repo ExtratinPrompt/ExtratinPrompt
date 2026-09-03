@@ -1,30 +1,51 @@
+```html
 <div align="center">
 
 <br>
 
-<img src="https://i.pinimg.com/originals/11/1d/0d/111d0d822f1870b37ef735bffcce0e86.png" width="105" height="105" style="border-radius:50%;" alt="Christine Praise C. Laput">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=190&section=header&text=Christine%20Praise%20Laput&fontSize=38&fontColor=F5EDE6&fontAlignY=40&animation=fadeIn"
+  width="100%"
+  alt="Christine Praise Laput"
+/>
+
+<br>
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=18&duration=3500&pause=900&color=6F4E37&center=true&vCenter=true&width=650&lines=Web+Developer+%26+Designer;Building+clean+digital+experiences;Code+%2B+Design+%2B+Creativity"
+  alt="Typing Animation"
+/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&weight=500&size=23&duration=3200&pause=1000&color=6F4E37&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Christine+%40Chris10;Developer+%26+Designer;BSIT+Student;I+build.+I+design.+I+learn." alt="Typing introduction">
+<a href="https://github.com/Chris10n">
+  <img
+    src="https://img.shields.io/badge/GitHub-2F241F?style=flat-square&logo=github&logoColor=F5EDE6"
+    alt="GitHub"
+  />
+</a>
 
-<br>
+<a href="mailto:extratintin0@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-6F4E37?style=flat-square&logo=gmail&logoColor=F5EDE6"
+    alt="Email"
+  />
+</a>
 
-<p>
-  <a href="https://github.com/Chris10n">
-    <img src="https://img.shields.io/badge/GitHub-2F241F?style=flat-square&logo=github&logoColor=F5EDE6" alt="GitHub">
-  </a>
-  <a href="mailto:extratintin0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8B5E3C?style=flat-square&logo=gmail&logoColor=F5EDE6" alt="Email">
-  </a>
-  <a href="https://www.instagram.com/chris.10n/">
-    <img src="https://img.shields.io/badge/Instagram-C27A45?style=flat-square&logo=instagram&logoColor=F5EDE6" alt="Instagram">
-  </a>
-</p>
+<a href="https://www.instagram.com/chris.10n/">
+  <img
+    src="https://img.shields.io/badge/Instagram-8B5E3C?style=flat-square&logo=instagram&logoColor=F5EDE6"
+    alt="Instagram"
+  />
+</a>
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2" width="70%" alt="Divider">
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2"
+  width="65%"
+  alt="Divider"
+/>
 
 </div>
 
@@ -32,69 +53,140 @@
 
 ## About
 
-I'm **Christine Praise C. Laput**, a **BS Information Technology student** who enjoys working where **technology meets design**.
+I'm **Christine Praise C. Laput**, a developer and designer interested in creating clean, functional, and user-friendly digital experiences.
 
-I build responsive applications, experiment with modern web technologies, and design interfaces that are simple, functional, and visually thoughtful.
+I enjoy combining **web development, UI/UX design, and creative design** to turn ideas into practical applications.
 
-Currently exploring better ways to turn ideas into useful digital experiences.
+I like learning through building, experimenting with modern technologies, and continuously improving the way I design and develop.
 
 <br>
 
 <div align="center">
 
-`CODE`    `DESIGN`    `CREATE`
+`DEVELOP` &nbsp;&nbsp; `DESIGN` &nbsp;&nbsp; `CREATE`
+
+</div>
+
+<br>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,php"
+  alt="Development Technologies"
+/>
+
+<br><br>
+
+<img
+  src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"
+  alt="Database and Cloud"
+/>
+
+<br><br>
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop"
+  alt="Tools and Design"
+/>
 
 </div>
 
 ---
 
-## What I Work With
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python" alt="Development Stack">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" alt="Database Stack">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop" alt="Tools">
-
-</div>
-
-<br>
+## Development
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### Development
+### Frontend
 
-`HTML` `CSS`
-`JavaScript` `TypeScript`
-`React` `Node.js`
-`Express.js` `REST API`
-`MongoDB` `MySQL`
-`Firebase` `Firestore`
+`HTML`  
+`CSS`  
+`JavaScript`  
+`TypeScript`  
+`React`  
+`Tailwind CSS`
 
 </td>
 
 <td width="50%" valign="top">
 
-### Design
+### Backend
 
-`Figma` `Photoshop`
-`Canva` `Photopea`
-`UI/UX` `Prototyping`
-`Wireframing`
-`Responsive Design`
-`Visual Design`
+`Node.js`  
+`Express.js`  
+`REST API`  
+`Laravel`  
+`PHP`
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Database
+
+`MongoDB`  
+`MySQL`  
+`Firebase`  
+`Firestore`  
+`Supabase`  
+`SQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Tools
+
+`Git`  
+`GitHub`  
+`VS Code`  
+`Postman`  
+`Cursor`
+
+</td>
+
 </tr>
 </table>
+
+---
+
+## Design
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=figma,photoshop"
+  alt="Design Tools"
+/>
+
+<br><br>
+
+`UI/UX` &nbsp; · &nbsp;
+`Wireframing` &nbsp; · &nbsp;
+`Prototyping` &nbsp; · &nbsp;
+`Responsive Design` &nbsp; · &nbsp;
+`Visual Design`
+
+<br><br>
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=15&duration=4000&pause=1000&color=8B5E3C&center=true&vCenter=true&width=520&lines=design+should+feel+simple.;good+interfaces+stay+out+of+the+way.;less+noise%2C+more+purpose."
+  alt="Design Philosophy"
+/>
+
+</div>
 
 ---
 
@@ -102,7 +194,7 @@ Currently exploring better ways to turn ideas into useful digital experiences.
 
 ### Graphic Designer
 
-**Freelance & Collaborative Work**
+**Freelance & Collaborative Work**  
 `2024 — Present`
 
 Creating branding materials, social media graphics, UI mockups, and visual assets while working with different creative ideas and requirements.
@@ -111,12 +203,14 @@ Creating branding materials, social media graphics, UI mockups, and visual asset
 
 ## Education
 
-**Bachelor of Science in Information Technology**
+### Bachelor of Science in Information Technology
+
 **New Era University**
 
 `2023 — Present`
 
-**Research:**
+**Research**
+
 *Inventory System of Ka. Margie Maganda with Smart Forecasting*
 
 ---
@@ -125,86 +219,116 @@ Creating branding materials, social media graphics, UI mockups, and visual asset
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,python,tailwind" alt="Technologies">
+<img
+  src="https://skillicons.dev/icons?i=typescript,nodejs,python,tailwind"
+  alt="Currently Exploring"
+/>
 
 <br><br>
 
-`TypeScript` · `Node.js` · `Python` · `Tailwind CSS`
+`TypeScript`
+&nbsp; · &nbsp;
+`Node.js`
+&nbsp; · &nbsp;
+`Python`
+&nbsp; · &nbsp;
+`Tailwind CSS`
 
 </div>
 
 ---
 
-<div align="center">
+## Skills
 
-### A little about how I work
+<details>
+<summary><b>Programming</b></summary>
 
-<table>
-<tr>
-<td align="center" width="33%">
+HTML · CSS · JavaScript · TypeScript · Python · PHP · SQL
 
-**01**
-
-<br>
-
-Build
+</details>
 
 <br>
 
-I learn by creating real projects.
+<details>
+<summary><b>Web Development</b></summary>
 
-</td>
+React · Node.js · Express.js · MERN Stack · REST API · Laravel
 
-<td align="center" width="33%">
-
-**02**
-
-<br>
-
-Design
+</details>
 
 <br>
 
-I care about how things look and feel.
+<details>
+<summary><b>Database & Cloud</b></summary>
 
-</td>
+MongoDB · MySQL · Firebase · Firestore · Supabase
 
-<td align="center" width="33%">
-
-**03**
-
-<br>
-
-Improve
+</details>
 
 <br>
 
-I continuously experiment and refine.
+<details>
+<summary><b>UI/UX & Creative</b></summary>
 
-</td>
-</tr>
-</table>
+Figma · Adobe Photoshop · Canva · Photopea · Animaker
 
-</div>
+</details>
+
+<br>
+
+<details>
+<summary><b>Networking</b></summary>
+
+Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configuration
+
+</details>
 
 ---
 
 <div align="center">
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=4000&pause=1200&color=8B5E3C&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by.;Let's+create+something+interesting." alt="Closing animation">
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Let's+create+something+interesting."
+  alt="Closing Animation"
+/>
 
 <br><br>
 
 <a href="https://github.com/Chris10n">
-<img src="https://img.shields.io/badge/Explore%20My%20Work-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6" alt="Explore My Work">
+  <img
+    src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6"
+    alt="Explore GitHub"
+  />
+</a>
+
+<a href="mailto:extratintin0@gmail.com">
+  <img
+    src="https://img.shields.io/badge/GET%20IN%20TOUCH-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6"
+    alt="Get in Touch"
+  />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=90&section=footer" width="100%" alt="Footer">
+<img
+  src="https://raw.githubusercontent.com/ExtratinPrompt/ExtratinPrompt/output/github-contribution-grid-snake-dark.svg"
+  width="95%"
+  alt="GitHub Contribution Animation"
+/>
+
+<br><br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=100&section=footer"
+  width="100%"
+  alt="Footer"
+/>
+
+<br>
 
 <sub>Christine Praise C. Laput · Chris10n</sub>
 
 </div>
+```
