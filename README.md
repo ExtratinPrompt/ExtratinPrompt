@@ -286,32 +286,6 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 <br><br>
 <br>
 
-<!-- CONTRIBUTION SNAKE ANIMATION -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake-dark.svg"
-  />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
-    width="95%"
-    alt="GitHub Contribution Snake Animation"
-  />
-</picture>
-
-<br><br>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=110&section=footer" width="100%" alt="Footer Wave">
-
-<br>
-
-<sub>Christine Praise C. Laput · Chris10n</sub>
 
 </div>
