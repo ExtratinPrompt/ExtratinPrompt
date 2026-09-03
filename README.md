@@ -25,14 +25,13 @@
 
 <br><br>
 
-<!-- TOP DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=55%" alt="Divider">
+<!-- TOP LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=55%" width="55%" alt="Divider">
 
 </div>
 
 <br>
 
-<!-- ABOUT -->
 ## About Me
 
 I'm **Christine Praise C. Laput**, a developer and designer who enjoys creating clean, functional, and user-friendly digital experiences.
@@ -51,12 +50,10 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 <br>
 
-<!-- SECTION DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" alt="Section Divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" width="100%" alt="Section Divider">
 
 <br>
 
-<!-- TECH STACK -->
 ## Tech Stack
 
 <div align="center">
@@ -81,12 +78,10 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 <br>
 
-<!-- SECTION DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" alt="Section Divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" width="100%" alt="Section Divider">
 
 <br>
 
-<!-- DEVELOPMENT -->
 ## Development
 
 <table>
@@ -147,12 +142,10 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 <br>
 
-<!-- SECTION DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" alt="Section Divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" width="100%" alt="Section Divider">
 
 <br>
 
-<!-- DESIGN -->
 ## Design
 
 <div align="center">
@@ -179,12 +172,10 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 <br>
 
-<!-- SECTION DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" alt="Section Divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" width="100%" alt="Section Divider">
 
 <br>
 
-<!-- EXPERIENCE -->
 ## Experience
 
 ### Graphic Designer
@@ -197,12 +188,10 @@ Creating branding materials, social media graphics, UI mockups, and visual asset
 
 <br>
 
-<!-- SECTION DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" alt="Section Divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" width="100%" alt="Section Divider">
 
 <br>
 
-<!-- EDUCATION -->
 ## Education
 
 ### Bachelor of Science in Information Technology
@@ -217,12 +206,10 @@ Creating branding materials, social media graphics, UI mockups, and visual asset
 
 <br>
 
-<!-- SECTION DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" alt="Section Divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" width="100%" alt="Section Divider">
 
 <br>
 
-<!-- CURRENTLY EXPLORING -->
 ## Currently Exploring
 
 <div align="center">
@@ -243,12 +230,10 @@ Creating branding materials, social media graphics, UI mockups, and visual asset
 
 <br>
 
-<!-- SECTION DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" alt="Section Divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" width="100%" alt="Section Divider">
 
 <br>
 
-<!-- SKILLS -->
 ## Skills
 
 <details>
@@ -296,7 +281,7 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 
 <br><br>
 
-<!-- FOOTER -->
+<!-- FOOTER CONTENT -->
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Let's+create+something+interesting." alt="Footer Animation">
@@ -321,12 +306,10 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake-dark.svg"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
   />
-
   <img
     src="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
     width="95%"
@@ -336,9 +319,13 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 
 <br><br>
 
-<!-- FOOTER WAVE -->
+</div>
+
+<!-- FOOTER SHADOW / WAVE -->
+<div align="center">
+
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=120&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=140&section=footer&animation=fadeIn"
   width="100%"
   alt="Footer Wave"
 >
