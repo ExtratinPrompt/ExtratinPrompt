@@ -1,58 +1,29 @@
-<div align="center">
 
-<!-- PROFILE PHOTO -->
-<img
-  src="./assets/profile-brown-border.png"
-  width="180"
-  alt="Christine Praise Laput"
->
-
-<br><br>
 
 <!-- TYPING ANIMATION -->
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=18&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=650&lines=Web+Developer+%26+Designer;Building+clean+digital+experiences;Code+%2B+Design+%2B+Creativity"
-  alt="Typing Animation"
->
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=18&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=650&lines=Web+Developer+%26+Designer;Building+clean+digital+experiences;Code+%2B+Design+%2B+Creativity" alt="Typing Animation">
 
 <br><br>
 
 <!-- SOCIAL LINKS -->
 <p>
   <a href="https://github.com/Chris10n">
-    <img
-      src="https://img.shields.io/badge/GitHub-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6"
-      alt="GitHub"
-    >
+    <img src="https://img.shields.io/badge/GitHub-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6" alt="GitHub">
   </a>
-
   &nbsp;
-
   <a href="mailto:extratintin0@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6"
-      alt="Email"
-    >
+    <img src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6" alt="Email">
   </a>
-
   &nbsp;
-
   <a href="https://www.instagram.com/chris.10n/">
-    <img
-      src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=F5EDE6"
-      alt="Instagram"
-    >
+    <img src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=F5EDE6" alt="Instagram">
   </a>
 </p>
 
 <br>
 
-<!-- TOP DIVIDER -->
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=500"
-  width="500"
-  alt="Divider"
->
+<!-- TOP LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=500" width="500" alt="Divider">
 
 </div>
 
@@ -88,11 +59,7 @@ and continuously improving my development and design skills.
 
 <br><br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Section Divider"
->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
 
 </div>
 
@@ -107,36 +74,23 @@ and continuously improving my development and design skills.
 
 ### Development
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,php"
-  alt="Development Stack"
->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,php" alt="Development Stack">
 
 <br><br>
 
 ### Database & Cloud
 
-<img
-  src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"
-  alt="Database and Cloud"
->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" alt="Database and Cloud">
 
 <br><br>
 
 ### Tools & Design
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop"
-  alt="Tools and Design"
->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop" alt="Tools and Design">
 
 <br><br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Section Divider"
->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
 
 </div>
 
@@ -151,7 +105,6 @@ and continuously improving my development and design skills.
 
 <table align="center">
 <tr>
-
 <td width="300" align="center" valign="top">
 
 ### Frontend
@@ -176,11 +129,9 @@ Laravel
 PHP
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="300" align="center" valign="top">
 
 ### Database
@@ -205,17 +156,12 @@ Postman
 Cursor
 
 </td>
-
 </tr>
 </table>
 
 <br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Section Divider"
->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
 
 </div>
 
@@ -228,10 +174,7 @@ Cursor
 
 <br>
 
-<img
-  src="https://skillicons.dev/icons?i=figma,photoshop"
-  alt="Design Tools"
->
+<img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design Tools">
 
 <br><br>
 
@@ -247,18 +190,11 @@ Cursor
 
 <br><br>
 
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=15&duration=4000&pause=1200&color=8B5E3C&center=true&vCenter=true&width=520&lines=design+should+feel+simple.;less+noise%2C+more+purpose."
-  alt="Design Animation"
->
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=15&duration=4000&pause=1200&color=8B5E3C&center=true&vCenter=true&width=520&lines=design+should+feel+simple.;less+noise%2C+more+purpose." alt="Design Animation">
 
 <br><br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Section Divider"
->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
 
 </div>
 
@@ -282,11 +218,7 @@ and visual assets while working with different creative concepts and requirement
 
 <br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Section Divider"
->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
 
 </div>
 
@@ -309,11 +241,7 @@ and visual assets while working with different creative concepts and requirement
 
 <br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Section Divider"
->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
 
 </div>
 
@@ -326,10 +254,7 @@ and visual assets while working with different creative concepts and requirement
 
 <br>
 
-<img
-  src="https://skillicons.dev/icons?i=ts,nodejs,python,tailwind"
-  alt="Currently Exploring"
->
+<img src="https://skillicons.dev/icons?i=ts,nodejs,python,tailwind" alt="Currently Exploring">
 
 <br><br>
 
@@ -343,11 +268,7 @@ and visual assets while working with different creative concepts and requirement
 
 <br><br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
-  width="700"
-  alt="Section Divider"
->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
 
 </div>
 
@@ -361,9 +282,7 @@ and visual assets while working with different creative concepts and requirement
 <br>
 
 <table align="center">
-
 <tr>
-
 <td align="center" width="280">
 
 <details>
@@ -391,11 +310,9 @@ MERN Stack · REST API · Laravel
 </details>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" width="280">
 
 <details>
@@ -423,11 +340,9 @@ Canva · Photopea · Animaker
 </details>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" colspan="2">
 
 <details>
@@ -440,9 +355,7 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 </details>
 
 </td>
-
 </tr>
-
 </table>
 
 </div>
@@ -452,63 +365,8 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 <!-- FOOTER -->
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Let's+create+something+interesting."
-  alt="Footer Animation"
->
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Let's+create+something+interesting." alt="Footer Animation">
 
 <br><br>
 
-<a href="https://github.com/Chris10n">
-  <img
-    src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6"
-    alt="Explore GitHub"
-  >
-</a>
 
-&nbsp;
-
-<a href="mailto:extratintin0@gmail.com">
-  <img
-    src="https://img.shields.io/badge/GET%20IN%20TOUCH-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6"
-    alt="Get in Touch"
-  >
-</a>
-
-<br><br>
-
-<!-- CONTRIBUTION SNAKE -->
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake-dark.svg"
-  >
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
-  >
-
-  <img
-    src="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
-    width="90%"
-    alt="GitHub Contribution Snake Animation"
-  >
-
-</picture>
-
-<br><br>
-
-</div>
-
-<!-- FOOTER WAVE -->
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=140&section=footer"
-  width="100%"
-  alt="Footer Wave"
->
-
-</div>
