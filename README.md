@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=18&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=650&lines=Web+Developer+%26+Designer;Building+clean+digital+experiences;Code+%2B+Design+%2B+Creativity" alt="Typing Animation">
@@ -6,34 +6,50 @@
 <br><br>
 
 <!-- SOCIAL LINKS -->
-<a href="https://github.com/Chris10n">
-<img src="https://img.shields.io/badge/GitHub-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6" alt="GitHub">
-</a>
-&nbsp;
-<a href="mailto:extratintin0@gmail.com">
-<img src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6" alt="Email">
-</a>
-&nbsp;
-<a href="https://www.instagram.com/chris.10n/">
-<img src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=F5EDE6" alt="Instagram">
-</a>
+<p>
+  <a href="https://github.com/Chris10n">
+    <img src="https://img.shields.io/badge/GitHub-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="mailto:extratintin0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6" alt="Email">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/chris.10n/">
+    <img src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=F5EDE6" alt="Instagram">
+  </a>
+</p>
 
-<br><br>
+<br>
 
 <!-- TOP LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=55%" width="55%" alt="Divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=500" width="500" alt="Divider">
 
 </div>
 
 <br>
 
+<!-- ABOUT ME -->
+<div align="center">
+
 ## About Me
 
-I'm **Christine Praise C. Laput**, a developer and designer who enjoys creating clean, functional, and user-friendly digital experiences.
+</div>
 
-I combine **web development, UI/UX, and visual design** to turn ideas into practical and meaningful applications.
+<p align="center">
+I'm <b>Christine Praise C. Laput</b>, a developer and designer who enjoys creating clean,<br>
+functional, and user-friendly digital experiences.
+</p>
 
-I enjoy learning by building, experimenting with new technologies, and continuously improving my development and design skills.
+<p align="center">
+I combine <b>web development, UI/UX, and visual design</b> to turn ideas into practical<br>
+and meaningful applications.
+</p>
+
+<p align="center">
+I enjoy learning by building, experimenting with new technologies,<br>
+and continuously improving my development and design skills.
+</p>
 
 <br>
 
@@ -41,17 +57,20 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 `DEVELOP` &nbsp;&nbsp; `DESIGN` &nbsp;&nbsp; `CREATE`
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
+
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" width="100%" alt="Section Divider">
-
-<br>
+<!-- TECH STACK -->
+<div align="center">
 
 ## Tech Stack
 
-<div align="center">
+<br>
 
 ### Development
 
@@ -69,67 +88,72 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop" alt="Tools and Design">
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
+
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" width="100%" alt="Section Divider">
-
-<br>
+<!-- DEVELOPMENT -->
+<div align="center">
 
 ## Development
 
-<table>
+<br>
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="300" align="center" valign="top">
 
 ### Frontend
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Tailwind CSS
+HTML  
+CSS  
+JavaScript  
+TypeScript  
+React  
+Tailwind CSS
 
 </td>
 
-<td width="50%" valign="top">
+<td width="300" align="center" valign="top">
 
 ### Backend
 
-- Node.js
-- Express.js
-- REST APIs
-- Laravel
-- PHP
+Node.js  
+Express.js  
+REST APIs  
+Laravel  
+PHP
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="300" align="center" valign="top">
 
 ### Database
 
-- MongoDB
-- MySQL
-- Firebase
-- Firestore
-- Supabase
-- SQL
+MongoDB  
+MySQL  
+Firebase  
+Firestore  
+Supabase  
+SQL
 
 </td>
 
-<td width="50%" valign="top">
+<td width="300" align="center" valign="top">
 
 ### Development Tools
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- Cursor
+Git  
+GitHub  
+VS Code  
+Postman  
+Cursor
 
 </td>
 </tr>
@@ -137,13 +161,18 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" width="100%" alt="Section Divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
+
+</div>
 
 <br>
 
+<!-- DESIGN -->
+<div align="center">
+
 ## Design
 
-<div align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design Tools">
 
@@ -163,13 +192,16 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=15&duration=4000&pause=1200&color=8B5E3C&center=true&vCenter=true&width=520&lines=design+should+feel+simple.;less+noise%2C+more+purpose." alt="Design Animation">
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
+
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" width="100%" alt="Section Divider">
-
-<br>
+<!-- EXPERIENCE -->
+<div align="center">
 
 ## Experience
 
@@ -179,13 +211,21 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 `2024 — Present`
 
-Creating branding materials, social media graphics, UI mockups, and visual assets while working with different creative concepts and requirements.
+<p>
+Creating branding materials, social media graphics, UI mockups,<br>
+and visual assets while working with different creative concepts and requirements.
+</p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" width="100%" alt="Section Divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
+
+</div>
 
 <br>
+
+<!-- EDUCATION -->
+<div align="center">
 
 ## Education
 
@@ -201,13 +241,18 @@ Creating branding materials, social media graphics, UI mockups, and visual asset
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" width="100%" alt="Section Divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
+
+</div>
 
 <br>
 
+<!-- CURRENTLY EXPLORING -->
+<div align="center">
+
 ## Currently Exploring
 
-<div align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=ts,nodejs,python,tailwind" alt="Currently Exploring">
 
@@ -221,62 +266,103 @@ Creating branding materials, social media graphics, UI mockups, and visual asset
 &nbsp; · &nbsp;
 `Tailwind CSS`
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="700" alt="Section Divider">
+
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" width="100%" alt="Section Divider">
+<!-- SKILLS -->
+<div align="center">
+
+## Skills
 
 <br>
 
-## Skills
+<table align="center">
+<tr>
+<td align="center" width="280">
 
 <details>
 <summary><b>Programming</b></summary>
 
-HTML · CSS · JavaScript · TypeScript · Python · PHP · SQL
+<br>
+
+HTML · CSS · JavaScript  
+TypeScript · Python · PHP · SQL
 
 </details>
 
-<br>
+</td>
+
+<td align="center" width="280">
 
 <details>
 <summary><b>Web Development</b></summary>
 
-React · Node.js · Express.js · MERN Stack · REST API · Laravel
+<br>
+
+React · Node.js · Express.js  
+MERN Stack · REST API · Laravel
 
 </details>
 
-<br>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="280">
 
 <details>
 <summary><b>Database & Cloud</b></summary>
 
-MongoDB · MySQL · Firebase · Firestore · Supabase
+<br>
+
+MongoDB · MySQL  
+Firebase · Firestore · Supabase
 
 </details>
 
-<br>
+</td>
+
+<td align="center" width="280">
 
 <details>
 <summary><b>UI/UX & Creative</b></summary>
 
-Figma · Adobe Photoshop · Canva · Photopea · Animaker
+<br>
+
+Figma · Photoshop  
+Canva · Photopea · Animaker
 
 </details>
 
-<br>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
 
 <details>
 <summary><b>Networking</b></summary>
+
+<br>
 
 Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configuration
 
 </details>
 
+</td>
+</tr>
+</table>
+
+</div>
+
 <br><br>
 
-<!-- FOOTER CONTENT -->
+<!-- FOOTER -->
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Let's+create+something+interesting." alt="Footer Animation">
@@ -295,4 +381,30 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 
 <br><br>
 
+<!-- CONTRIBUTION SNAKE -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
+    width="90%"
+    alt="GitHub Contribution Snake Animation"
+  />
+</picture>
 
+<br><br>
+
+<!-- FOOTER WAVE -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=140&section=footer"
+  width="100%"
+  alt="Footer Wave"
+>
+
+</div>
