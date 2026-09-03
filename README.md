@@ -25,7 +25,8 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=65%" alt="Divider">
+<!-- TOP DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=55%" alt="Divider">
 
 </div>
 
@@ -50,7 +51,10 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 <br>
 
----
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" alt="Section Divider">
+
+<br>
 
 <!-- TECH STACK -->
 ## Tech Stack
@@ -77,7 +81,10 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 <br>
 
----
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" alt="Section Divider">
+
+<br>
 
 <!-- DEVELOPMENT -->
 ## Development
@@ -138,7 +145,12 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 </tr>
 </table>
 
----
+<br>
+
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" alt="Section Divider">
+
+<br>
 
 <!-- DESIGN -->
 ## Design
@@ -165,7 +177,12 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 </div>
 
----
+<br>
+
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" alt="Section Divider">
+
+<br>
 
 <!-- EXPERIENCE -->
 ## Experience
@@ -178,7 +195,12 @@ I enjoy learning by building, experimenting with new technologies, and continuou
 
 Creating branding materials, social media graphics, UI mockups, and visual assets while working with different creative concepts and requirements.
 
----
+<br>
+
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" alt="Section Divider">
+
+<br>
 
 <!-- EDUCATION -->
 ## Education
@@ -193,7 +215,12 @@ Creating branding materials, social media graphics, UI mockups, and visual asset
 
 *Inventory System of Ka. Margie Maganda with Smart Forecasting*
 
----
+<br>
+
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" alt="Section Divider">
+
+<br>
 
 <!-- CURRENTLY EXPLORING -->
 ## Currently Exploring
@@ -214,7 +241,12 @@ Creating branding materials, social media graphics, UI mockups, and visual asset
 
 </div>
 
----
+<br>
+
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=100%" alt="Section Divider">
+
+<br>
 
 <!-- SKILLS -->
 ## Skills
@@ -262,12 +294,10 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 
 </details>
 
----
+<br><br>
 
 <!-- FOOTER -->
 <div align="center">
-
-<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Let's+create+something+interesting." alt="Footer Animation">
 
@@ -284,14 +314,29 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 </a>
 
 <br><br>
-<br>
 
-</div>
+<!-- CONTRIBUTION SNAKE -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake-dark.svg"
+  />
 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
+    width="95%"
+    alt="GitHub Contribution Snake Animation"
+  />
+</picture>
+
+<br><br>
 
 <!-- FOOTER WAVE -->
-<div align="center">
-
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=120&section=footer"
   width="100%"
