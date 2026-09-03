@@ -1,4 +1,3 @@
-Sure — here’s the same minimalist brown design with **all emojis removed** while keeping the animations and clean aesthetic.
 
 <div align="center">
 
@@ -234,16 +233,3 @@ Git · GitHub · VS Code · Postman · Cursor
 
 <br><br>
 
-**Open to OJT opportunities · Collaboration · Learning**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=100&section=footer" alt="Footer">
-
-<sub>© 2026 Christine Praise C. Laput · Built with curiosity</sub>
-
-</div>
