@@ -1,5 +1,23 @@
 <div align="center">
 
+<!-- PROFILE PHOTO -->
+<img
+  src="./assets/profile-brown-border.png"
+  width="180"
+  alt="Christine Praise Laput"
+>
+
+<br><br>
+
+<!-- NAME -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=170&section=header&text=Christine%20Praise%20Laput&fontSize=42&fontColor=F5EDE6&fontAlignY=40&animation=fadeIn"
+  width="100%"
+  alt="Christine Praise Laput"
+>
+
+<br>
+
 <!-- TYPING ANIMATION -->
 <img
   src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=18&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=650&lines=Web+Developer+%26+Designer;Building+clean+digital+experiences;Code+%2B+Design+%2B+Creativity"
@@ -10,65 +28,78 @@
 
 <!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="https://github.com/Chris10n">
-    <img
-      src="https://img.shields.io/badge/GitHub-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6"
-      alt="GitHub"
-    >
-  </a>
-  &nbsp;
-  <a href="mailto:extratintin0@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6"
-      alt="Email"
-    >
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/chris.10n/">
-    <img
-      src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=F5EDE6"
-      alt="Instagram"
-    >
-  </a>
+
+<a href="https://github.com/Chris10n">
+<img
+  src="https://img.shields.io/badge/GitHub-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6"
+  alt="GitHub"
+>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:extratintin0@gmail.com">
+<img
+  src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6"
+  alt="Email"
+>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/chris.10n/">
+<img
+  src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=F5EDE6"
+  alt="Instagram"
+>
+</a>
+
 </p>
 
 <br>
 
-<!-- TOP DIVIDER -->
+<!-- TOP LINE -->
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=500"
   width="500"
   alt="Divider"
 >
 
+</div>
+
 <br><br>
 
 <!-- ABOUT ME -->
-<h2>About Me</h2>
+<div align="center">
 
-<p align="center">
-I'm <b>Christine Praise C. Laput</b>, a developer and designer who enjoys creating clean,<br>
+## About Me
+
+<p>
+I'm <b>Christine Praise C. Laput</b>, a developer and designer who enjoys creating clean,
+<br>
 functional, and user-friendly digital experiences.
 </p>
 
-<p align="center">
-I combine <b>web development, UI/UX, and visual design</b> to turn ideas into practical<br>
+<p>
+I combine <b>web development, UI/UX, and visual design</b> to turn ideas into practical
+<br>
 and meaningful applications.
 </p>
 
-<p align="center">
-I enjoy learning by building, experimenting with new technologies,<br>
+<p>
+I enjoy learning by building, experimenting with new technologies,
+<br>
 and continuously improving my development and design skills.
 </p>
 
 <br>
 
-<p align="center">
-  <code>DEVELOP</code>
-  &nbsp;&nbsp;
-  <code>DESIGN</code>
-  &nbsp;&nbsp;
-  <code>CREATE</code>
+<p>
+<code>DEVELOP</code>
+&nbsp;&nbsp;&nbsp;
+<code>DESIGN</code>
+&nbsp;&nbsp;&nbsp;
+<code>CREATE</code>
 </p>
 
 <br>
@@ -79,14 +110,18 @@ and continuously improving my development and design skills.
   alt="Section Divider"
 >
 
+</div>
+
 <br><br>
 
 <!-- TECH STACK -->
-<h2>Tech Stack</h2>
+<div align="center">
+
+## Tech Stack
 
 <br>
 
-<h3>Development</h3>
+### Development
 
 <img
   src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,php"
@@ -95,7 +130,7 @@ and continuously improving my development and design skills.
 
 <br><br>
 
-<h3>Database & Cloud</h3>
+### Database & Cloud
 
 <img
   src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"
@@ -104,7 +139,7 @@ and continuously improving my development and design skills.
 
 <br><br>
 
-<h3>Tools & Design</h3>
+### Tools & Design
 
 <img
   src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,photoshop"
@@ -119,16 +154,21 @@ and continuously improving my development and design skills.
   alt="Section Divider"
 >
 
+</div>
+
 <br><br>
 
 <!-- DEVELOPMENT -->
-<h2>Development</h2>
+<div align="center">
+
+## Development
 
 <br>
 
 <table align="center">
-  <tr>
-    <td width="300" align="center" valign="top">
+<tr>
+
+<td width="300" align="center" valign="top">
 
 ### Frontend
 
@@ -139,9 +179,9 @@ TypeScript
 React  
 Tailwind CSS
 
-    </td>
+</td>
 
-    <td width="300" align="center" valign="top">
+<td width="300" align="center" valign="top">
 
 ### Backend
 
@@ -151,11 +191,13 @@ REST APIs
 Laravel  
 PHP
 
-    </td>
-  </tr>
+</td>
 
-  <tr>
-    <td width="300" align="center" valign="top">
+</tr>
+
+<tr>
+
+<td width="300" align="center" valign="top">
 
 ### Database
 
@@ -166,9 +208,9 @@ Firestore
 Supabase  
 SQL
 
-    </td>
+</td>
 
-    <td width="300" align="center" valign="top">
+<td width="300" align="center" valign="top">
 
 ### Development Tools
 
@@ -178,8 +220,9 @@ VS Code
 Postman  
 Cursor
 
-    </td>
-  </tr>
+</td>
+
+</tr>
 </table>
 
 <br>
@@ -190,10 +233,14 @@ Cursor
   alt="Section Divider"
 >
 
+</div>
+
 <br><br>
 
 <!-- DESIGN -->
-<h2>Design</h2>
+<div align="center">
+
+## Design
 
 <br>
 
@@ -204,16 +251,16 @@ Cursor
 
 <br><br>
 
-<p align="center">
-  <code>UI/UX</code>
-  &nbsp; · &nbsp;
-  <code>Wireframing</code>
-  &nbsp; · &nbsp;
-  <code>Prototyping</code>
-  &nbsp; · &nbsp;
-  <code>Responsive Design</code>
-  &nbsp; · &nbsp;
-  <code>Visual Design</code>
+<p>
+<code>UI/UX</code>
+&nbsp; · &nbsp;
+<code>Wireframing</code>
+&nbsp; · &nbsp;
+<code>Prototyping</code>
+&nbsp; · &nbsp;
+<code>Responsive Design</code>
+&nbsp; · &nbsp;
+<code>Visual Design</code>
 </p>
 
 <br>
@@ -231,23 +278,28 @@ Cursor
   alt="Section Divider"
 >
 
+</div>
+
 <br><br>
 
 <!-- EXPERIENCE -->
-<h2>Experience</h2>
+<div align="center">
 
-<h3>Graphic Designer</h3>
+## Experience
 
-<p>
+### Graphic Designer
+
 <b>Freelance & Collaborative Work</b>
-</p>
+
+<br>
+
+<code>2024 — Present</code>
+
+<br><br>
 
 <p>
-<code>2024 — Present</code>
-</p>
-
-<p align="center">
-Creating branding materials, social media graphics, UI mockups,<br>
+Creating branding materials, social media graphics, UI mockups,
+<br>
 and visual assets while working with different creative concepts and requirements.
 </p>
 
@@ -259,24 +311,26 @@ and visual assets while working with different creative concepts and requirement
   alt="Section Divider"
 >
 
+</div>
+
 <br><br>
 
 <!-- EDUCATION -->
-<h2>Education</h2>
+<div align="center">
 
-<h3>Bachelor of Science in Information Technology</h3>
+## Education
 
-<p>
+### Bachelor of Science in Information Technology
+
 <b>New Era University</b>
-</p>
 
-<p>
+<br>
+
 <code>2023 — Present</code>
-</p>
 
-<p>
+<br><br>
+
 <b>Research</b>
-</p>
 
 <p>
 <i>Inventory System of Ka. Margie Maganda with Smart Forecasting</i>
@@ -290,10 +344,14 @@ and visual assets while working with different creative concepts and requirement
   alt="Section Divider"
 >
 
+</div>
+
 <br><br>
 
 <!-- CURRENTLY EXPLORING -->
-<h2>Currently Exploring</h2>
+<div align="center">
+
+## Currently Exploring
 
 <br>
 
@@ -304,14 +362,14 @@ and visual assets while working with different creative concepts and requirement
 
 <br><br>
 
-<p align="center">
-  <code>TypeScript</code>
-  &nbsp; · &nbsp;
-  <code>Node.js</code>
-  &nbsp; · &nbsp;
-  <code>Python</code>
-  &nbsp; · &nbsp;
-  <code>Tailwind CSS</code>
+<p>
+<code>TypeScript</code>
+&nbsp; · &nbsp;
+<code>Node.js</code>
+&nbsp; · &nbsp;
+<code>Python</code>
+&nbsp; · &nbsp;
+<code>Tailwind CSS</code>
 </p>
 
 <br><br>
@@ -322,17 +380,22 @@ and visual assets while working with different creative concepts and requirement
   alt="Section Divider"
 >
 
+</div>
+
 <br><br>
 
 <!-- SKILLS -->
-<h2>Skills</h2>
+<div align="center">
+
+## Skills
 
 <br>
 
 <table align="center">
-  <tr>
 
-    <td align="center" width="280">
+<tr>
+
+<td align="center" width="280">
 
 <details>
 <summary><b>Programming</b></summary>
@@ -344,9 +407,9 @@ TypeScript · Python · PHP · SQL
 
 </details>
 
-    </td>
+</td>
 
-    <td align="center" width="280">
+<td align="center" width="280">
 
 <details>
 <summary><b>Web Development</b></summary>
@@ -358,13 +421,13 @@ MERN Stack · REST API · Laravel
 
 </details>
 
-    </td>
+</td>
 
-  </tr>
+</tr>
 
-  <tr>
+<tr>
 
-    <td align="center" width="280">
+<td align="center" width="280">
 
 <details>
 <summary><b>Database & Cloud</b></summary>
@@ -376,9 +439,9 @@ Firebase · Firestore · Supabase
 
 </details>
 
-    </td>
+</td>
 
-    <td align="center" width="280">
+<td align="center" width="280">
 
 <details>
 <summary><b>UI/UX & Creative</b></summary>
@@ -390,38 +453,44 @@ Canva · Photopea · Animaker
 
 </details>
 
-    </td>
+</td>
 
-  </tr>
+</tr>
 
-  <tr>
+<tr>
 
-    <td align="center" colspan="2">
+<td align="center" colspan="2">
 
 <details>
 <summary><b>Networking</b></summary>
 
 <br>
 
-Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configuration
+Cisco Packet Tracer · IP Addressing  
+Router Configuration · Switch Configuration
 
 </details>
 
-    </td>
+</td>
 
-  </tr>
+</tr>
+
 </table>
 
-<br><br>
+<br>
 
-<!-- FOOTER -->
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700"
   width="700"
   alt="Footer Divider"
 >
 
+</div>
+
 <br><br>
+
+<!-- FOOTER MESSAGE -->
+<div align="center">
 
 <img
   src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Let's+create+something+interesting."
@@ -433,19 +502,19 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 <p align="center">
 
 <a href="https://github.com/Chris10n">
-  <img
-    src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6"
-    alt="Explore GitHub"
-  >
+<img
+  src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6"
+  alt="Explore My GitHub"
+>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:extratintin0@gmail.com">
-  <img
-    src="https://img.shields.io/badge/GET%20IN%20TOUCH-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6"
-    alt="Get in Touch"
-  >
+<img
+  src="https://img.shields.io/badge/GET%20IN%20TOUCH-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6"
+  alt="Get in Touch"
+>
 </a>
 
 </p>
@@ -455,35 +524,35 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 <!-- CONTRIBUTION SNAKE -->
 <picture>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake-dark.svg"
-  >
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake-dark.svg"
+>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
-  >
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
+>
 
-  <img
-    src="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
-    width="90%"
-    alt="GitHub Contribution Snake Animation"
-  >
+<img
+  src="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
+  width="90%"
+  alt="GitHub Contribution Snake Animation"
+>
 
 </picture>
 
 <br><br>
 
-<!-- FOOTER WAVE -->
+</div>
+
+<!-- BOTTOM FOOTER WAVE -->
+<div align="center">
+
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=140&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=130&section=footer"
   width="100%"
   alt="Footer Wave"
 >
-
-<br>
-
-<sub>Christine Praise C. Laput · Chris10n</sub>
 
 </div>
