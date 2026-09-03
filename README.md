@@ -1,17 +1,16 @@
-<!-- HEADER BANNER -->
-
+```html
+<!-- HEADER -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=160&section=header&fontSize=1&fontColor=F5EDE6&fontAlignY=35" width="100%" alt="Header Banner" />
+  <!-- BROWN HEADER BACKGROUND -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=140&section=header" width="100%" alt="Header Banner" />
 
   <!-- LARGE ANIMATED GIF -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFheTU1ZmR5OG0wbDMzZzBwMGpocmFlOWR6bG9lNmppeXp4OWJqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBvowbUwAmenC/giphy.gif" width="650" alt="Animated Header GIF" />
 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFheTU1ZmR5OG0wbDMzZzBwMGpocmFlOWR6bG9lNmppeXp4OWJqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBvowbUwAmenC/giphy.gif" width="320" alt="Animated Header GIF" />
-
-<br><br>
+  <br><br>
 
   <!-- TYPING ANIMATION -->
-
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=18&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=650&lines=Web+Developer+%26+Designer;Building+clean+digital+experiences;Code+%2B+Design+%2B+Creativity" alt="Typing Animation" />
 
 </div>
@@ -19,14 +18,13 @@
 <br>
 
 <!-- ABOUT ME -->
-
 <div align="center">
 
 ## About Me
 
 I'm Christine Praise C. Laput, a web developer and designer passionate about functional and user-friendly digital experiences.
 
-By bridging Web Development, UI/UX, and Visual Design, I transform ideas into practical applications. I thrive on learning by building, experimenting with modern stacks, and continuously refining my craft.
+By bridging **Web Development, UI/UX, and Visual Design**, I transform ideas into practical applications. I thrive on learning by building, experimenting with modern stacks, and continuously refining my craft.
 
 </div>
 
@@ -39,7 +37,6 @@ By bridging Web Development, UI/UX, and Visual Design, I transform ideas into pr
 <br>
 
 <!-- TECH STACK -->
-
 <div align="center">
 
 ## Tech Stack
@@ -71,7 +68,6 @@ By bridging Web Development, UI/UX, and Visual Design, I transform ideas into pr
 <br>
 
 <!-- DEVELOPMENT & DESIGN OVERVIEW -->
-
 <div align="center">
 
 ## Expertise & Capabilities
@@ -83,7 +79,7 @@ By bridging Web Development, UI/UX, and Visual Design, I transform ideas into pr
 
 ### Development
 
-Frontend<br>
+**Frontend**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24" alt="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24" alt="CSS3" />
@@ -98,7 +94,7 @@ HTML · CSS · JavaScript · TypeScript · React · Tailwind
 
 <br><br>
 
-Backend<br>
+**Backend**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" height="24" alt="Node.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="24" height="24" alt="Express.js" />
@@ -112,7 +108,7 @@ Node.js · Express · REST APIs · Laravel · PHP · Python
 
 <br><br>
 
-Database<br>
+**Database**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" height="24" alt="MongoDB" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" alt="MySQL" />
@@ -129,7 +125,7 @@ MongoDB · MySQL · Firebase · Supabase · SQL
 
 ### Design & Workflow
 
-Design Tools<br>
+**Design Tools**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24" height="24" alt="Figma" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="24" height="24" alt="Photoshop" />
@@ -141,15 +137,15 @@ Figma · Photoshop · Canva · Photopea
 
 <br><br>
 
-Focus Areas<br>
+**Focus Areas**
 
-UI/UX Design · Wireframing
-Prototyping · Responsive Layouts
+UI/UX Design · Wireframing  
+Prototyping · Responsive Layouts  
 Visual Systems
 
 <br><br>
 
-Dev Workflow<br>
+**Dev Workflow**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" alt="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" alt="GitHub" />
@@ -180,7 +176,6 @@ Git · GitHub · VS Code · Postman · Cursor
 <br>
 
 <!-- EXPERIENCE & EDUCATION -->
-
 <div align="center">
 
 ## Background & Focus
@@ -192,8 +187,9 @@ Git · GitHub · VS Code · Postman · Cursor
 
 ### Experience
 
-Graphic Designer
-*Freelance & Collaborative Work*
+**Graphic Designer**
+
+*Freelance & Collaborative Work*  
 2024 — Present
 
 <br>
@@ -206,13 +202,15 @@ Crafting branding materials, social media assets, UI mockups, and visual compone
 
 ### Education
 
-B.S. in Information Technology
-*New Era University*
+**B.S. in Information Technology**
+
+*New Era University*  
 2023 — Present
 
 <br>
 
-Featured Research Project
+**Featured Research Project**
+
 *Inventory System of Ka. Margie Maganda with Smart Forecasting*
 
 </td>
@@ -231,7 +229,6 @@ Featured Research Project
 <br>
 
 <!-- CURRENTLY EXPLORING & SKILLS -->
-
 <div align="center">
 
 ## Currently Exploring
@@ -240,7 +237,7 @@ Featured Research Project
 
 <br><br>
 
-TypeScript   •   Node.js   •   Python   •   Tailwind CSS
+TypeScript &nbsp; • &nbsp; Node.js &nbsp; • &nbsp; Python &nbsp; • &nbsp; Tailwind CSS
 
 <br><br>
 
@@ -249,13 +246,13 @@ TypeScript   •   Node.js   •   Python   •   Tailwind CSS
 
 <br>
 
-| Category             | Technologies / Capabilities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programming          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18" height="18" alt="HTML" /> HTML   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18" height="18" alt="CSS" /> CSS   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" height="18" alt="JS" /> JavaScript   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" height="18" alt="TS" /> TypeScript   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" height="18" alt="Python" /> Python   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="18" height="18" alt="PHP" /> PHP |
-| Web Development      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" height="18" alt="React" /> React   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" height="18" alt="Node" /> Node.js   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18" height="18" alt="Express" /> Express.js   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="18" height="18" alt="Laravel" /> Laravel                                                                                                                                                                                                                                                                 |
-| Database & Cloud     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18" height="18" alt="Mongo" /> MongoDB   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18" height="18" alt="MySQL" /> MySQL   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="18" height="18" alt="Firebase" /> Firebase   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="18" height="18" alt="Supabase" /> Supabase                                                                                                                                                                                                                                                            |
-| Design & Media       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="18" height="18" alt="Figma" /> Figma   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="18" height="18" alt="Photoshop" /> Photoshop   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="18" height="18" alt="Canva" /> Canva                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Networking & Systems | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="18" height="18" alt="Cisco" /> Cisco Packet Tracer · IP Addressing · Router & Switch Configuration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Category | Technologies / Capabilities |
+| :--- | :--- |
+| **Programming** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18" height="18" alt="HTML" /> HTML &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18" height="18" alt="CSS" /> CSS &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" height="18" alt="JS" /> JavaScript &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" height="18" alt="TS" /> TypeScript &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" height="18" alt="Python" /> Python &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="18" height="18" alt="PHP" /> PHP |
+| **Web Development** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" height="18" alt="React" /> React &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" height="18" alt="Node" /> Node.js &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18" height="18" alt="Express" /> Express.js &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="18" height="18" alt="Laravel" /> Laravel |
+| **Database & Cloud** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18" height="18" alt="Mongo" /> MongoDB &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18" height="18" alt="MySQL" /> MySQL &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="18" height="18" alt="Firebase" /> Firebase &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="18" height="18" alt="Supabase" /> Supabase |
+| **Design & Media** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="18" height="18" alt="Figma" /> Figma &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="18" height="18" alt="Photoshop" /> Photoshop &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="18" height="18" alt="Canva" /> Canva |
+| **Networking & Systems** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="18" height="18" alt="Cisco" /> Cisco Packet Tracer · IP Addressing · Router & Switch Configuration |
 
 </details>
 
@@ -270,13 +267,13 @@ TypeScript   •   Node.js   •   Python   •   Tailwind CSS
 <br>
 
 <!-- FOOTER -->
-
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!;Let's+create+something+meaningful." alt="Footer Animation">
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Let's+create+something+meaningful." alt="Footer Message">
 
 <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=100&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=100&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
+```
