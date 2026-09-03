@@ -1,4 +1,4 @@
-[9/3/2026 3:49 PM] Praise Laput: <!-- HEADER BANNER -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=180&section=header&text=Christine%20Praise%20Laput&fontSize=38&fontColor=F5EDE6&fontAlignY=35" width="100%" alt="Header Banner" />
   
