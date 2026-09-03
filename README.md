@@ -1,41 +1,44 @@
-```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=190&section=header&text=Christine%20Praise%20Laput&fontSize=38&fontColor=F5EDE6&fontAlignY=40&animation=fadeIn" width="100%" alt="Christine Praise Laput">
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=200&section=header&text=Christine%20Praise%20Laput&fontSize=42&fontColor=F5EDE6&fontAlignY=38&animation=fadeIn" width="100%" alt="Christine Praise Laput">
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=18&duration=3000&pause=900&color=6F4E37&center=true&vCenter=true&width=650&lines=Web+Developer+%26+Designer;Building+clean+digital+experiences;Code+%2B+Design+%2B+Creativity" alt="Typing Animation">
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=18&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=650&lines=Web+Developer+%26+Designer;Building+clean+digital+experiences;Code+%2B+Design+%2B+Creativity" alt="Typing Animation">
 
 <br><br>
 
+<!-- SOCIAL LINKS -->
 <a href="https://github.com/Chris10n">
-<img src="https://img.shields.io/badge/GitHub-2F241F?style=flat-square&logo=github&logoColor=F5EDE6" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6" alt="GitHub">
 </a>
-
+&nbsp;
 <a href="mailto:extratintin0@gmail.com">
-<img src="https://img.shields.io/badge/Email-6F4E37?style=flat-square&logo=gmail&logoColor=F5EDE6" alt="Email">
+<img src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6" alt="Email">
 </a>
-
+&nbsp;
 <a href="https://www.instagram.com/chris.10n/">
-<img src="https://img.shields.io/badge/Instagram-8B5E3C?style=flat-square&logo=instagram&logoColor=F5EDE6" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=F5EDE6" alt="Instagram">
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2" width="65%" alt="Divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=65%" alt="Divider">
 
 </div>
 
 <br>
 
-## About
+<!-- ABOUT -->
+## About Me
 
-I'm **Christine Praise C. Laput**, a developer and designer interested in creating clean, functional, and user-friendly digital experiences.
+I'm **Christine Praise C. Laput**, a developer and designer who enjoys creating clean, functional, and user-friendly digital experiences.
 
-I enjoy combining **web development, UI/UX design, and creative design** to turn ideas into practical applications.
+I combine **web development, UI/UX, and visual design** to turn ideas into practical and meaningful applications.
 
-I like learning through building, experimenting with modern technologies, and continuously improving the way I design and develop.
+I enjoy learning by building, experimenting with new technologies, and continuously improving my development and design skills.
 
 <br>
 
@@ -49,13 +52,14 @@ I like learning through building, experimenting with modern technologies, and co
 
 ---
 
+<!-- TECH STACK -->
 ## Tech Stack
 
 <div align="center">
 
 ### Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,php" alt="Development Technologies">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,php" alt="Development Stack">
 
 <br><br>
 
@@ -75,21 +79,21 @@ I like learning through building, experimenting with modern technologies, and co
 
 ---
 
+<!-- DEVELOPMENT -->
 ## Development
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### Frontend
 
-`HTML`  
-`CSS`  
-`JavaScript`  
-`TypeScript`  
-`React`  
-`Tailwind CSS`
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Tailwind CSS
 
 </td>
 
@@ -97,48 +101,46 @@ I like learning through building, experimenting with modern technologies, and co
 
 ### Backend
 
-`Node.js`  
-`Express.js`  
-`REST API`  
-`Laravel`  
-`PHP`
+- Node.js
+- Express.js
+- REST APIs
+- Laravel
+- PHP
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### Database
 
-`MongoDB`  
-`MySQL`  
-`Firebase`  
-`Firestore`  
-`Supabase`  
-`SQL`
+- MongoDB
+- MySQL
+- Firebase
+- Firestore
+- Supabase
+- SQL
 
 </td>
 
 <td width="50%" valign="top">
 
-### Tools
+### Development Tools
 
-`Git`  
-`GitHub`  
-`VS Code`  
-`Postman`  
-`Cursor`
+- Git
+- GitHub
+- VS Code
+- Postman
+- Cursor
 
 </td>
-
 </tr>
 </table>
 
 ---
 
+<!-- DESIGN -->
 ## Design
 
 <div align="center">
@@ -147,20 +149,25 @@ I like learning through building, experimenting with modern technologies, and co
 
 <br><br>
 
-`UI/UX` &nbsp; · &nbsp;
-`Wireframing` &nbsp; · &nbsp;
-`Prototyping` &nbsp; · &nbsp;
-`Responsive Design` &nbsp; · &nbsp;
+`UI/UX`
+&nbsp; · &nbsp;
+`Wireframing`
+&nbsp; · &nbsp;
+`Prototyping`
+&nbsp; · &nbsp;
+`Responsive Design`
+&nbsp; · &nbsp;
 `Visual Design`
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=15&duration=4000&pause=1000&color=8B5E3C&center=true&vCenter=true&width=520&lines=design+should+feel+simple.;less+noise%2C+more+purpose." alt="Design Philosophy">
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=15&duration=4000&pause=1200&color=8B5E3C&center=true&vCenter=true&width=520&lines=design+should+feel+simple.;less+noise%2C+more+purpose." alt="Design Animation">
 
 </div>
 
 ---
 
+<!-- EXPERIENCE -->
 ## Experience
 
 ### Graphic Designer
@@ -169,10 +176,11 @@ I like learning through building, experimenting with modern technologies, and co
 
 `2024 — Present`
 
-Creating branding materials, social media graphics, UI mockups, and visual assets while working with different creative ideas and requirements.
+Creating branding materials, social media graphics, UI mockups, and visual assets while working with different creative concepts and requirements.
 
 ---
 
+<!-- EDUCATION -->
 ## Education
 
 ### Bachelor of Science in Information Technology
@@ -187,6 +195,7 @@ Creating branding materials, social media graphics, UI mockups, and visual asset
 
 ---
 
+<!-- CURRENTLY EXPLORING -->
 ## Currently Exploring
 
 <div align="center">
@@ -207,6 +216,7 @@ Creating branding materials, social media graphics, UI mockups, and visual asset
 
 ---
 
+<!-- SKILLS -->
 ## Skills
 
 <details>
@@ -254,11 +264,12 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by.;Let's+create+something+interesting." alt="Closing Animation">
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by.;Let's+create+something+interesting." alt="Footer Animation">
 
 <br><br>
 
@@ -266,27 +277,41 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6" alt="Explore GitHub">
 </a>
 
+&nbsp;
+
 <a href="mailto:extratintin0@gmail.com">
 <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6" alt="Get in Touch">
 </a>
 
 <br><br>
+<br>
 
-<!-- CONTRIBUTION ANIMATION -->
-
+<!-- CONTRIBUTION SNAKE ANIMATION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Animation">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Chris10n/Chris10n/output/github-contribution-grid-snake.svg"
+    width="95%"
+    alt="GitHub Contribution Snake Animation"
+  />
 </picture>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=100&section=footer" width="100%" alt="Footer">
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=110&section=footer" width="100%" alt="Footer Wave">
 
 <br>
 
 <sub>Christine Praise C. Laput · Chris10n</sub>
 
 </div>
-```
