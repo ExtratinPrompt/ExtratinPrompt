@@ -2,13 +2,13 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=180&section=header&text=Christine%20Praise%20Laput&fontSize=38&fontColor=F5EDE6&fontAlignY=35" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=160&section=header&fontSize=1&fontColor=F5EDE6&fontAlignY=35" width="100%" alt="Header Banner" />
 
-  <!-- ANIMATED GIF -->
+  <!-- LARGE ANIMATED GIF -->
 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFheTU1ZmR5OG0wbDMzZzBwMGpocmFlOWR6bG9lNmppeXp4OWJqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBvowbUwAmenC/giphy.gif" width="180" alt="Animated Header GIF" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFheTU1ZmR5OG0wbDMzZzBwMGpocmFlOWR6bG9lNmppeXp4OWJqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBvowbUwAmenC/giphy.gif" width="320" alt="Animated Header GIF" />
 
-  <br>
+<br><br>
 
   <!-- TYPING ANIMATION -->
 
