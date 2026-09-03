@@ -286,6 +286,16 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 <br><br>
 <br>
 
+</div>
 
+
+<!-- FOOTER WAVE -->
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=120&section=footer"
+  width="100%"
+  alt="Footer Wave"
+>
 
 </div>
