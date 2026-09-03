@@ -369,15 +369,4 @@ Cisco Packet Tracer · IP Addressing · Router Configuration · Switch Configura
 
 <br><br>
 
-<a href="https://github.com/Chris10n">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-2F241F?style=for-the-badge&logo=github&logoColor=F5EDE6" alt="Explore GitHub">
-</a>
-
-&nbsp;
-
-<a href="mailto:extratintin0@gmail.com">
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5EDE6" alt="Get in Touch">
-</a>
-
-<br><br>
 
