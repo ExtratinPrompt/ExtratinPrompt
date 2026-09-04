@@ -144,7 +144,7 @@ Git · GitHub · VS Code · Postman · Cursor
 <!-- EXPERIENCE & EDUCATION -->
 <div align="center">
 
-## Background & Focus
+## Background
 
 <table align="center" width="100%">
 <tr>
