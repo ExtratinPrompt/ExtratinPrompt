@@ -1,20 +1,22 @@
 <div align="center">
 
-https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=220&section=header&text=Christine%20Praise%20Laput&fontSize=40&fontColor=F5EDE6&fontAlignY=38
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=220&section=header&textaput&fontSize=40&fontColor=F5EDE6&fontAlignY=38
 
 <br>
 
-https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=20&duration=3500&pause=1200&color=6F4E37&center=true&vCenter=true&width=700&lines=Web+Developer;UI%2FUX+Designer;Building+Clean+Digital+Experiences
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=22&duration=3500&pause=1200&color=6F4E37&center=true&vCenter=true&width=700&lines=Web+Developer;signer;Building+Clean+Digital+Experiences
 
 <br><br>
 
-https://media.tenor.com/mGgWY8RkgYMAAAAC/cat-computer.gif
+<img width="450enor.com/mGgWY8RkgYMAAAAC/cat-computer.gif
 
 <br><br>
 
-<p>
 Creating meaningful digital experiences through development, design, and creativity.
-</p>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME-the-badge&color=6F4E37
 
 </div>
 
@@ -22,13 +24,13 @@ Creating meaningful digital experiences through development, design, and creativ
 
 ## About
 
-I'm **Christine Praise C. Laput**, a BS Information Technology student passionate about web development, UI/UX design, and building solutions that are both functional and visually appealing.
+I'm **Christine Praise C. Laput**, a passionate **Web Developer** and **UI/UX Designer** pursuing a Bachelor of Science in Information Technology.
 
-Currently focused on improving my skills in modern web technologies while designing intuitive user experiences.
+I enjoy creating modern, responsive, and user-friendly applications that combine functionality with thoughtful design.
 
 ---
 
-## Stack
+## Tech Stack
 
 <div align="center">
 
@@ -40,7 +42,7 @@ https://skillicons.dev/icons?i=nodejs,express,php,laravel,python
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
 
 <br><br>
 
@@ -54,9 +56,13 @@ https://skillicons.dev/icons?i=figma,git,github,vscode,postman
 
 ### Intelligent Inventory Forecasting System
 
-An inventory management platform designed to improve stock monitoring and support business decision-making through forecasting techniques.
+Inventory management platform designed to improve stock monitoring and support business decision-making through forecasting techniques.
 
-**Built with:** Laravel • PHP • MySQL
+**Technologies Used**
+
+```text
+Laravel • PHP • MySQL • Forecasting Models
+```
 
 ---
 
@@ -64,9 +70,9 @@ An inventory management platform designed to improve stock monitoring and suppor
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=6F4E37&icon_color=6F4E37&text_color=666&bg_color=00000000
+<img height="170" src="https://githubp/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=6F4E37&icon_color=6F4E37&text_color=666666&bg_color=00000000
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=6F4E37&text_color=666&bg_color=00000000
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-ERNAME&layout=compact&hide_border=true&title_color=6F4E37&text_color=666666&bg_color=00000000
 
 </div>
 
@@ -74,7 +80,17 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&lay
 
 <div align="center">
 
-https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&ring=6F4E37&fire=6F4E37&currStreakLabel=6F4E37&background=FFFFFF00
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&ring=6F4E37&fire=rStreakLabel=6F4E37&background=FFFFFF00
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=6F4E37&line=6F4E37&point=8B5E3C&r=true
 
 </div>
 
@@ -84,7 +100,7 @@ https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=
 
 <div align="center">
 
-https://skillicons.dev/icons?i=typescript,nextjs,nodejs,python
+<img src="https://skillicons?i=typescript,nextjs,nodejs,python
 
 <br><br>
 
@@ -99,7 +115,8 @@ TypeScript • Next.js • Node.js • Python
 <div align="center">
 
 > Design should feel simple.  
-> Technology should feel effortless.
+> Technology should feel effortless.  
+> Great products balance both.
 
 </div>
 
@@ -109,9 +126,21 @@ TypeScript • Next.js • Node.js • Python
 
 <div align="center">
 
-https://github.com/YOUR_USERNAMEGitHub</a> •
-https://linkedin.com/in/YOUR_LINKEDINLinkedIn</a> •
-YOUR_EMAILEmail</a>
+https://github.com/YOUR_USERNAME
+GitHub
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+YOUR_EMAIL
+Email
+</a>
 
 </div>
 
@@ -119,8 +148,8 @@ YOUR_EMAILEmail</a>
 
 <div align="center">
 
-https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=4000&pause=1500&color=8B5E3C&center=true&vCenter=true&width=500&lines=Always+Learning;Always+Building;Always+Improving
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=4000&pause=1500&color=8B5E3C&center=true&vCenter=true&width=500&lines=Always+lways+Building;Always+Improving
 
 </div>
 
-https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=120&section=footer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=
