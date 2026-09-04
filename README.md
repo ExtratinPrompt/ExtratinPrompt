@@ -86,7 +86,7 @@ Backend<br>
 Node.js · Express · REST APIs · Laravel · PHP · Python
 
 <br>
-[9/3/2026 3:49 PM] Praise Laput: Database<br>
+ Database<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" height="24" alt="MongoDB" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" alt="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="24" height="24" alt="Firebase" />
