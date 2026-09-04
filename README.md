@@ -1,155 +1,219 @@
+[9/3/2026 3:49 PM] Praise Laput: <!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=180&section=header&text=Christine%20Praise%20Laput&fontSize=38&fontColor=F5EDE6&fontAlignY=35" width="100%" alt="Header Banner" />
+  
+  <!-- TYPING ANIMATION -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=18&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=650&lines=Web+Developer+%26+Designer;Building+clean+digital+experiences;Code+%2B+Design+%2B+Creativity" alt="Typing Animation" />
+
+
+<!-- ABOUT ME -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=220&section=header&textaput&fontSize=40&fontColor=F5EDE6&fontAlignY=38
+## About Me
 
-<br>
+I'm Christine Praise C. Laput, a web developer and designer passionate about functional and user-friendly digital experiences.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=22&duration=3500&pause=1200&color=6F4E37&center=true&vCenter=true&width=700&lines=Web+Developer;signer;Building+Clean+Digital+Experiences
-
-<br><br>
-
-<img width="450enor.com/mGgWY8RkgYMAAAAC/cat-computer.gif
-
-<br><br>
-
-Creating meaningful digital experiences through development, design, and creativity.
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME-the-badge&color=6F4E37
+By bridging Web Development, UI/UX, and Visual Design, I transform ideas into practical applications. I thrive on learning by building, experimenting with modern stacks, and continuously refining my craft.
 
 </div>
 
----
+<br>
 
-## About
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="100%" alt="Divider">
+</div>
 
-I'm **Christine Praise C. Laput**, a passionate **Web Developer** and **UI/UX Designer** pursuing a Bachelor of Science in Information Technology.
+<br>
 
-I enjoy creating modern, responsive, and user-friendly applications that combine functionality with thoughtful design.
-
----
+<!-- TECH STACK -->
+<div align="center">
 
 ## Tech Stack
 
-<div align="center">
-
-https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind
-
-<br><br>
-
-https://skillicons.dev/icons?i=nodejs,express,php,laravel,python
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,python,php,laravel" alt="Development Stack">
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
+### Database & Cloud Services
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" alt="Database and Cloud">
 
 <br><br>
 
-https://skillicons.dev/icons?i=figma,git,github,vscode,postman
-
-</div>
-
----
-
-## Featured Project
-
-### Intelligent Inventory Forecasting System
-
-Inventory management platform designed to improve stock monitoring and support business decision-making through forecasting techniques.
-
-**Technologies Used**
-
-```text
-Laravel • PHP • MySQL • Forecasting Models
-```
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://githubp/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=6F4E37&icon_color=6F4E37&text_color=666666&bg_color=00000000
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-ERNAME&layout=compact&hide_border=true&title_color=6F4E37&text_color=666666&bg_color=00000000
+### Design & Tools
+<img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,vscode,postman" alt="Tools and Design">
 
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&ring=6F4E37&fire=rStreakLabel=6F4E37&background=FFFFFF00
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="100%" alt="Divider">
 </div>
 
----
+<br>
 
-## Activity Graph
-
+<!-- DEVELOPMENT & DESIGN OVERVIEW WITH REAL ICONS -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=6F4E37&line=6F4E37&point=8B5E3C&r=true
+## Expertise & Capabilities
 
-</div>
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
 
----
+### Development
 
-## Currently Learning
+Frontend<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="24" height="24" alt="Tailwind CSS" />
+<br>
+HTML · CSS · JavaScript · TypeScript · React · Tailwind
 
-<div align="center">
+<br>
 
-<img src="https://skillicons?i=typescript,nextjs,nodejs,python
+Backend<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" height="24" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="24" height="24" alt="Express.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="24" height="24" alt="Laravel" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24" height="24" alt="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python" />
+<br>
+Node.js · Express · REST APIs · Laravel · PHP · Python
 
-<br><br>
+<br>
+[9/3/2026 3:49 PM] Praise Laput: Database<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" height="24" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="24" height="24" alt="Firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="24" height="24" alt="Supabase" />
+<br>
+MongoDB · MySQL · Firebase · Supabase · SQL
 
-TypeScript • Next.js • Node.js • Python
+</td>
+<td width="50%" align="center" valign="top">
 
-</div>
+### Design & Workflow
 
----
+Design Tools<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24" height="24" alt="Figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="24" height="24" alt="Photoshop" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="24" height="24" alt="Canva" />
+<br>
+Figma · Photoshop · Canva · Photopea
 
-## Philosophy
+<br>
 
-<div align="center">
+Focus Areas<br>
+UI/UX Design · Wireframing  
+Prototyping · Responsive Layouts  
+Visual Systems
 
-> Design should feel simple.  
-> Technology should feel effortless.  
-> Great products balance both.
+<br>
 
-</div>
+Dev Workflow<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" height="24" alt="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="24" height="24" alt="Postman" />
+<br>
+Git · GitHub · VS Code · Postman · Cursor
 
----
+</td>
+</tr>
+</table>
 
-## Connect
+<br>
 
-<div align="center">
-
-https://github.com/YOUR_USERNAME
-GitHub
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-https://linkedin.com/in/YOUR_LINKEDIN
-LinkedIn
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-YOUR_EMAIL
-Email
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=15&duration=4000&pause=1200&color=8B5E3C&center=true&vCenter=true&width=520&lines=Design+should+feel+simple.;Less+noise%2C+more+purpose." alt="Design Quote">
 
 </div>
 
 <br>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="100%" alt="Divider">
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=4000&pause=1500&color=8B5E3C&center=true&vCenter=true&width=500&lines=Always+lways+Building;Always+Improving
+<br>
+
+<!-- EXPERIENCE & EDUCATION -->
+<div align="center">
+
+## Background & Focus
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### Experience
+
+Graphic Designer  
+*Freelance & Collaborative Work*  
+2024 — Present
+
+* Crafting branding materials, social media assets, UI mockups, and visual components tailored to creative briefs.
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### Education
+
+B.S. in Information Technology  
+*New Era University*  
+2023 — Present
+
+Featured Research Project  
+*Inventory System of Ka. Margie Maganda with Smart Forecasting*
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="100%" alt="Divider">
+</div>
+
+<br>
+
+<!-- CURRENTLY EXPLORING & SKILLS -->
+<div align="center">
+
+## Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,python,tailwind" alt="Currently Exploring">
+
+<br><br>
+
+TypeScript &nbsp; • &nbsp; Node.js &nbsp; • &nbsp; Python &nbsp; • &nbsp; Tailwind CSS
+
+<br><br>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=2&width=700" width="100%" alt="Divider">
+</div>
+
+<br>
+
+<!-- FOOTER -->
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!;Let's+create+something+meaningful." alt="Footer Animation">
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=100&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
