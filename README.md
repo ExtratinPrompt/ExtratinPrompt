@@ -1,36 +1,59 @@
+````md
 <!-- ========================================================= -->
-
-<!--                   CHRISTINE PRAISE LAPUT                 -->
-
-<!--              PIXEL / RETRO GITHUB PROFILE                 -->
-
+<!--                 CHRISTINE PRAISE LAPUT                   -->
+<!--          PIXEL • COFFEE • CAT • DEVELOPER                -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<!-- PIXEL-STYLE HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=190&section=header&text=CHRISTINE%20PRAISE%20LAPUT&fontSize=36&fontColor=F5EDE6&fontAlignY=35&animation=fadeIn" width="100%" alt="Christine Praise Laput Header"/>
-
-<br>
-
-<!-- PIXEL TERMINAL INTRO -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2800&pause=900&color=6F4E37&center=true&vCenter=true&width=750&height=60&lines=%3E+BOOTING+CHRISTINE.EXE...;%3E+WEB+DEVELOPER+%2B+DESIGNER;%3E+BUILDING+DIGITAL+EXPERIENCES;%3E+CODE+%2B+DESIGN+%2B+CREATIVITY;%3E+SYSTEM+READY." alt="Pixel Typing Animation"/>
+<!-- ANIMATED PIXEL HEADER -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=220&section=header&text=CHRISTINE%20PRAISE&fontSize=42&fontColor=FFF7F0&fontAlignY=35&animation=fadeIn"
+  width="100%"
+/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-6F4E37?style=for-the-badge&labelColor=2B211B" alt="Status Online"/>
-<img src="https://img.shields.io/badge/ROLE-WEB%20DEVELOPER-8B5E3C?style=for-the-badge&labelColor=2B211B" alt="Web Developer"/>
-<img src="https://img.shields.io/badge/DESIGN-UI%2FUX-C8A27A?style=for-the-badge&labelColor=2B211B" alt="UI UX Design"/>
+<!-- ANIMATED CAT -->
+<img
+  src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+  width="190"
+  alt="Pixel Cat"
+/>
+
+<br>
+
+<!-- TYPING ANIMATION -->
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2800&pause=900&color=6F4E37&center=true&vCenter=true&width=760&height=65&lines=%3E+HELLO%2C+WORLD!;%3E+CHRISTINE.EXE+IS+RUNNING...;%3E+WEB+DEVELOPER+%26+DESIGNER;%3E+CODE+%2B+DESIGN+%2B+COFFEE;%3E+CREATING+DIGITAL+EXPERIENCES;%3E+SYSTEM+READY."
+  alt="Typing Animation"
+/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-6F4E37?style=for-the-badge&labelColor=2B211B"/>
+<img src="https://img.shields.io/badge/ROLE-WEB%20DEVELOPER-8B5E3C?style=for-the-badge&labelColor=2B211B"/>
+<img src="https://img.shields.io/badge/DESIGN-UI%2FUX-C8A27A?style=for-the-badge&labelColor=2B211B"/>
+
+<br><br>
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│        WELCOME TO CHRISTINE.EXE              │
+│                                              │
+│        CODE  •  DESIGN  •  CREATE            │
+│                                              │
+╰──────────────────────────────────────────────╯
+````
 
 </div>
 
-<br>
+---
 
 <!-- ========================================================= -->
 
-<!--                        ABOUT ME                           -->
+<!--                         ABOUT ME                           -->
 
 <!-- ========================================================= -->
 
@@ -42,53 +65,74 @@
 
 <table align="center" width="90%">
 <tr>
-<td width="58%" valign="top">
+
+<td width="60%" valign="top">
 
 ### `profile.txt`
 
-I'm **Christine Praise C. Laput**, a web developer and designer passionate about creating functional, responsive, and user-friendly digital experiences.
+Hi, I'm **Christine Praise C. Laput**.
 
-I enjoy combining **development, UI/UX, and visual design** to transform ideas into practical applications.
+I'm a **web developer and designer** passionate about creating functional, responsive, and user-friendly digital experiences.
 
-My approach is simple:
+I enjoy combining:
+
+```text
+DEVELOPMENT
+      +
+UI / UX
+      +
+VISUAL DESIGN
+      =
+DIGITAL EXPERIENCES
+```
+
+My workflow is simple:
 
 ```text
 BUILD
-  |
-  +-- DESIGN
-  |
-  +-- DEVELOP
-  |
-  +-- TEST
-  |
-  +-- IMPROVE
-  |
-  +-- REPEAT
+  ↓
+DESIGN
+  ↓
+DEVELOP
+  ↓
+TEST
+  ↓
+IMPROVE
+  ↓
+REPEAT
 ```
 
-Currently focused on improving my development skills, exploring modern technologies, and building projects that combine clean interfaces with practical functionality.
+Currently, I'm focused on improving my development skills, exploring modern technologies, and building practical projects.
 
 </td>
 
-<td width="42%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=350&height=180&lines=%5B+SYSTEM+INFO+%5D;%3E+NAME%3A+CHRISTINE;%3E+ROLE%3A+DEVELOPER;%3E+MODE%3A+CREATIVE;%3E+STATUS%3A+LEARNING;%3E+OUTPUT%3A+BUILDING" alt="System Information"/>
+```text
+╭──────────────────────╮
+│    CHRISTINE.EXE     │
+├──────────────────────┤
+│                      │
+│ MODE   : CREATIVE    │
+│ STATUS : ONLINE      │
+│ FOCUS  : WEB         │
+│ DESIGN : UI/UX       │
+│ COFFEE : ACTIVE      │
+│ CAT    : WATCHING    │
+│                      │
+╰──────────────────────╯
+```
 
 <br>
 
 ```text
-+----------------------+
-|    CHRISTINE.EXE     |
-+----------------------+
-| MODE      : CREATIVE |
-| STATUS    : ONLINE   |
-| FOCUS     : WEB      |
-| DESIGN    : UI/UX    |
-| BUILD     : ACTIVE   |
-+----------------------+
+ /\_/\\
+( o.o )
+ > ^ <
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -96,15 +140,94 @@ Currently focused on improving my development skills, exploring modern technolog
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=3&width=850" width="90%" alt="Divider"/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=3500&pause=900&color=8B5E3C&center=true&vCenter=true&width=650&height=45&lines=DESIGN+WITH+PURPOSE.;CODE+WITH+INTENTION.;BUILD+WITH+CREATIVITY."
+/>
 
 </div>
 
-<br>
+---
 
 <!-- ========================================================= -->
 
-<!--                       TECH STACK                          -->
+<!--                       COFFEE AREA                          -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+## `> COFFEE.EXE`
+
+<br>
+
+```text
+             )  (
+            (   )
+             ) (
+          ._______.
+         |         |
+         |  COFFEE |
+         |_________|
+          \_______/
+
+       BREWING CREATIVITY...
+```
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=2600&pause=700&color=6F4E37&center=true&vCenter=true&width=600&height=45&lines=BREWING+COFFEE...;LOADING+CREATIVITY...;WRITING+CODE...;DEBUGGING...;CAT+IS+WATCHING...;SYSTEM+READY."
+/>
+
+<br>
+
+```text
+COFFEE LEVEL
+
+██████████████████░░  90%
+
+CREATIVITY
+
+████████████████████  100%
+```
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                       PIXEL CAT                            -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+## `> CAT_MODE`
+
+<img
+src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif"
+width="220"
+alt="Animated Cat"
+/>
+
+<br>
+
+```text
+ /\_/\
+( o.o )   "debugging..."
+ > ^ <
+```
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=9&duration=3000&pause=1000&color=8B5E3C&center=true&vCenter=true&width=550&height=40&lines=CAT+HAS+ENTERED+THE+CODEBASE.;CAT+APPROVES+THE+DESIGN.;NO+BUGS+ALLOWED."
+/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                       TECH STACK                           -->
 
 <!-- ========================================================= -->
 
@@ -112,72 +235,69 @@ Currently focused on improving my development skills, exploring modern technolog
 
 ## `> TECH_STACK.EXE`
 
-<br>
-
 ### `01 / FRONTEND`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=light" alt="Frontend Technologies"/>
+<img
+src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=light"
+alt="Frontend Technologies"
+/>
 
 <br><br>
 
 ```text
-HTML   |   CSS   |   JavaScript   |   TypeScript
-React  |   Tailwind CSS
+HTML  •  CSS  •  JavaScript
+TypeScript  •  React  •  Tailwind CSS
 ```
-
-<br>
 
 ### `02 / BACKEND`
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel&theme=light" alt="Backend Technologies"/>
+<img
+src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel&theme=light"
+alt="Backend Technologies"
+/>
 
 <br><br>
 
 ```text
-Node.js   |   Express   |   REST APIs
-Python    |   PHP       |   Laravel
+Node.js  •  Express  •  REST APIs
+Python  •  PHP  •  Laravel
 ```
-
-<br>
 
 ### `03 / DATABASE & CLOUD`
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&theme=light" alt="Database and Cloud Technologies"/>
+<img
+src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&theme=light"
+alt="Database Technologies"
+/>
 
 <br><br>
 
 ```text
-MongoDB   |   MySQL   |   Firebase   |   Supabase   |   SQL
+MongoDB  •  MySQL  •  Firebase
+Supabase  •  SQL
 ```
-
-<br>
 
 ### `04 / DESIGN & TOOLS`
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop,canva,git,github,vscode,postman&theme=light" alt="Design and Development Tools"/>
+<img
+src="https://skillicons.dev/icons?i=figma,photoshop,canva,git,github,vscode,postman&theme=light"
+alt="Design and Development Tools"
+/>
 
 <br><br>
 
 ```text
-Figma   |   Photoshop   |   Canva   |   Photopea
-Git     |   GitHub      |   VS Code |   Postman
+Figma  •  Photoshop  •  Canva
+Git  •  GitHub  •  VS Code  •  Postman
 ```
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=3&width=850" width="90%" alt="Divider"/>
-
-</div>
-
-<br>
+---
 
 <!-- ========================================================= -->
 
-<!--                  SKILL INVENTORY                          -->
+<!--                         SKILLS                             -->
 
 <!-- ========================================================= -->
 
@@ -197,23 +317,23 @@ Git     |   GitHub      |   VS Code |   Postman
 ```text
 FRONTEND
 
-HTML             █████████░  90%
-CSS              █████████░  90%
-JavaScript       ████████░░  80%
-TypeScript       ██████░░░░  60%
-React            ███████░░░  70%
-Tailwind CSS     ███████░░░  70%
+HTML             █████████░ 90%
+CSS              █████████░ 90%
+JavaScript       ████████░░ 80%
+TypeScript       ██████░░░░ 60%
+React            ███████░░░ 70%
+Tailwind CSS     ███████░░░ 70%
 ```
 
 ```text
 BACKEND
 
-Node.js          ███████░░░  70%
-Express          ███████░░░  70%
-PHP              ██████░░░░  60%
-Laravel          ██████░░░░  60%
-Python           ██████░░░░  60%
-REST APIs        ███████░░░  70%
+Node.js          ███████░░░ 70%
+Express          ███████░░░ 70%
+PHP              ██████░░░░ 60%
+Laravel          ██████░░░░ 60%
+Python           ██████░░░░ 60%
+REST APIs        ███████░░░ 70%
 ```
 
 </td>
@@ -225,20 +345,20 @@ REST APIs        ███████░░░  70%
 ```text
 UI / UX
 
-Wireframing      ████████░░  80%
-Prototyping      ████████░░  80%
-Responsive UI    ████████░░  80%
-Visual Design    █████████░  90%
+Wireframing      ████████░░ 80%
+Prototyping      ████████░░ 80%
+Responsive UI    ████████░░ 80%
+Visual Design    █████████░ 90%
 ```
 
 ```text
 DATABASE
 
-MongoDB          ███████░░░  70%
-MySQL            ███████░░░  70%
-Firebase         ███████░░░  70%
-Supabase         ██████░░░░  60%
-SQL              ███████░░░  70%
+MongoDB          ███████░░░ 70%
+MySQL            ███████░░░ 70%
+Firebase         ███████░░░ 70%
+Supabase         ██████░░░░ 60%
+SQL              ███████░░░ 70%
 ```
 
 </td>
@@ -246,11 +366,11 @@ SQL              ███████░░░  70%
 </tr>
 </table>
 
-<br>
+---
 
 <!-- ========================================================= -->
 
-<!--                       EXPERTISE                           -->
+<!--                        EXPERTISE                           -->
 
 <!-- ========================================================= -->
 
@@ -258,10 +378,10 @@ SQL              ███████░░░  70%
 
 ## `> EXPERTISE.LOG`
 
-<table align="center" width="90%">
+<table width="90%">
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### `DEVELOPMENT`
 
@@ -277,7 +397,7 @@ Responsive Web Design
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### `DESIGN`
 
@@ -295,7 +415,7 @@ Creative Layouts
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### `WORKFLOW`
 
@@ -318,27 +438,11 @@ Continuous Learning
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=4000&pause=1200&color=8B5E3C&center=true&vCenter=true&width=650&height=50&lines=DESIGN+SHOULD+FEEL+SIMPLE.;LESS+NOISE.+MORE+PURPOSE.;BUILD+WITH+INTENTION." alt="Design Philosophy"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=3&width=850" width="90%" alt="Divider"/>
-
-</div>
-
-<br>
+---
 
 <!-- ========================================================= -->
 
-<!--                    EXPERIENCE                            -->
+<!--                       EXPERIENCE                           -->
 
 <!-- ========================================================= -->
 
@@ -360,18 +464,20 @@ Continuous Learning
 `2024 — Present`
 
 ```text
-+--------------------------------+
-| DESIGN EXPERIENCE              |
-+--------------------------------+
-| Branding Materials             |
-| Social Media Assets             |
-| UI Mockups                      |
-| Visual Components               |
-| Creative Briefs                 |
-+--------------------------------+
+╭────────────────────────────╮
+│ DESIGN EXPERIENCE          │
+├────────────────────────────┤
+│                            │
+│ Branding Materials         │
+│ Social Media Assets        │
+│ UI Mockups                 │
+│ Visual Components          │
+│ Creative Layouts           │
+│                            │
+╰────────────────────────────╯
 ```
 
-Focused on creating visual materials that balance creativity, clarity, and usability.
+Creating visual materials that balance creativity, clarity, and usability.
 
 </td>
 
@@ -384,15 +490,17 @@ Focused on creating visual materials that balance creativity, clarity, and usabi
 `2023 — Present`
 
 ```text
-+--------------------------------+
-| DEVELOPMENT EXPERIENCE          |
-+--------------------------------+
-| Web Applications                |
-| REST APIs                       |
-| Database Systems                |
-| UI/UX Prototypes                |
-| Inventory Systems               |
-+--------------------------------+
+╭────────────────────────────╮
+│ DEVELOPMENT EXPERIENCE     │
+├────────────────────────────┤
+│                            │
+│ Web Applications           │
+│ REST APIs                  │
+│ Database Systems           │
+│ UI/UX Prototypes           │
+│ Inventory Systems          │
+│                            │
+╰────────────────────────────╯
 ```
 
 Building practical applications while continuously improving development and design workflows.
@@ -402,21 +510,17 @@ Building practical applications while continuously improving development and des
 </tr>
 </table>
 
-<br>
+---
 
 <!-- ========================================================= -->
 
-<!--                      EDUCATION                            -->
+<!--                         EDUCATION                           -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
 ## `> EDUCATION.DAT`
-
-<table align="center" width="90%">
-<tr>
-<td align="center">
 
 ### `B.S. INFORMATION TECHNOLOGY`
 
@@ -426,43 +530,36 @@ Building practical applications while continuously improving development and des
 
 <br>
 
-### `FEATURED RESEARCH PROJECT`
-
-**Inventory System of Ka. Margie Maganda with Smart Forecasting**
-
-<br>
-
 ```text
-RESEARCH FOCUS
-
-Inventory Management
-        +
-Smart Forecasting
-        +
-Digital Systems
-        +
-Data-driven Decisions
+╭────────────────────────────────────────╮
+│                                        │
+│          FEATURED RESEARCH             │
+│                                        │
+├────────────────────────────────────────┤
+│                                        │
+│ Inventory System of Ka. Margie         │
+│ Maganda with Smart Forecasting         │
+│                                        │
+├────────────────────────────────────────┤
+│                                        │
+│ Inventory Management                   │
+│            +                           │
+│ Smart Forecasting                      │
+│            +                           │
+│ Digital Systems                        │
+│            +                           │
+│ Data-driven Decisions                  │
+│                                        │
+╰────────────────────────────────────────╯
 ```
 
-</td>
-</tr>
-</table>
-
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=3&width=850" width="90%" alt="Divider"/>
-
-</div>
-
-<br>
+---
 
 <!-- ========================================================= -->
 
-<!--                   CURRENTLY EXPLORING                     -->
+<!--                    CURRENTLY EXPLORING                     -->
 
 <!-- ========================================================= -->
 
@@ -472,33 +569,38 @@ Data-driven Decisions
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,python,tailwind,firebase&theme=light" alt="Currently Exploring"/>
+<img
+src="https://skillicons.dev/icons?i=ts,nodejs,python,tailwind,firebase&theme=light"
+alt="Currently Exploring"
+/>
 
 <br><br>
 
 ```text
 TypeScript
-    |
+    ↓
 Node.js
-    |
+    ↓
 Python
-    |
+    ↓
 Tailwind CSS
-    |
+    ↓
 Firebase
 ```
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=3200&pause=900&color=6F4E37&center=true&vCenter=true&width=600&height=45&lines=LEARNING+NEW+THINGS...;BUILDING+SMALL+PROJECTS...;IMPROVING+EVERY+DAY...;LOADING+NEXT+PROJECT..." alt="Currently Exploring Animation"/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=3000&pause=800&color=6F4E37&center=true&vCenter=true&width=650&height=45&lines=LEARNING+NEW+THINGS...;BUILDING+SMALL+PROJECTS...;IMPROVING+EVERY+DAY...;LOADING+NEXT+PROJECT..."
+/>
 
 </div>
 
-<br>
+---
 
 <!-- ========================================================= -->
 
-<!--                    DEVELOPMENT TERMINAL                   -->
+<!--                         TERMINAL                           -->
 
 <!-- ========================================================= -->
 
@@ -506,49 +608,47 @@ Firebase
 
 ## `> TERMINAL`
 
-<br>
-
-<table align="center">
-<tr>
-<td>
-
 ```text
-┌─────────────────────────────────────────┐
-│ christine@dev-machine:~$                │
-│                                         │
-│ $ whoami                                │
-│ christine                                │
-│                                         │
-│ $ current_status                        │
-│                                         │
-│ [OK] learning                            │
-│ [OK] designing                           │
-│ [OK] developing                          │
-│ [OK] testing                             │
-│ [OK] improving                           │
-│                                         │
-│ $ next_project                           │
-│                                         │
-│ ████████████████░░░░░░                  │
-│ STATUS: IN DEVELOPMENT                   │
-│                                         │
-│ $ exit                                   │
-│                                         │
-│ connection remains active...             │
-└─────────────────────────────────────────┘
+┌─────────────────────────────────────────────┐
+│ christine@dev-machine:~$                    │
+│                                             │
+│ $ whoami                                    │
+│ christine                                   │
+│                                             │
+│ $ current_status                            │
+│                                             │
+│ [OK] learning                               │
+│ [OK] designing                              │
+│ [OK] developing                             │
+│ [OK] testing                                │
+│ [OK] improving                              │
+│                                             │
+│ $ coffee                                    │
+│ ████████████████████░░ 90%                  │
+│                                             │
+│ $ next_project                              │
+│                                             │
+│ ████████████████░░░░░░                     │
+│ STATUS: IN DEVELOPMENT                      │
+│                                             │
+│ $ exit                                      │
+│ connection remains active...                │
+└─────────────────────────────────────────────┘
 ```
 
-</td>
-</tr>
-</table>
+<br>
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=2500&pause=700&color=8B5E3C&center=true&vCenter=true&width=600&height=45&lines=INITIALIZING...;COMPILING...;DESIGNING...;DEBUGGING...;BUILD+COMPLETE."
+/>
 
 </div>
 
-<br>
+---
 
 <!-- ========================================================= -->
 
-<!--                     GITHUB STATS                          -->
+<!--                       GITHUB STATS                         -->
 
 <!-- ========================================================= -->
 
@@ -558,47 +658,37 @@ Firebase
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chris10n&show_icons=true&hide_border=true&bg_color=00000000&title_color=6F4E37&text_color=6F4E37&icon_color=8B5E3C&rank_icon=github" height="165" alt="GitHub Statistics"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=Chris10n&show_icons=true&hide_border=true&bg_color=00000000&title_color=6F4E37&text_color=6F4E37&icon_color=8B5E3C&rank_icon=github"
+height="165"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris10n&layout=compact&hide_border=true&bg_color=00000000&title_color=6F4E37&text_color=6F4E37" height="165" alt="Top Languages"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris10n&layout=compact&hide_border=true&bg_color=00000000&title_color=6F4E37&text_color=6F4E37"
+height="165"
+/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chris10n&hide_border=true&background=00000000&ring=6F4E37&fire=8B5E3C&currStreakLabel=6F4E37&sideLabels=6F4E37&currStreakNum=6F4E37&sideNums=6F4E37&dates=8B5E3C" width="70%" alt="GitHub Streak"/>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Chris10n&hide_border=true&background=00000000&ring=6F4E37&fire=8B5E3C&currStreakLabel=6F4E37&sideLabels=6F4E37&currStreakNum=6F4E37&sideNums=6F4E37&dates=8B5E3C"
+width="70%"
+/>
+
+<br><br>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Chris10n&bg_color=00000000&color=6F4E37&line=8B5E3C&point=6F4E37&area=true&hide_border=true&custom_title=CHRISTINE'S%20DEVELOPMENT%20ACTIVITY"
+width="90%"
+/>
 
 </div>
 
-<br>
+---
 
 <!-- ========================================================= -->
 
-<!--                        CONTRIBUTIONS                       -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## `> CONTRIBUTION_MATRIX`
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chris10n&bg_color=00000000&color=6F4E37&line=8B5E3C&point=6F4E37&area=true&hide_border=true&custom_title=CHRISTINE'S%20DEVELOPMENT%20ACTIVITY" width="90%" alt="GitHub Contribution Graph"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=3&width=850" width="90%" alt="Divider"/>
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-
-<!--                         PHILOSOPHY                        -->
+<!--                       PHILOSOPHY                           -->
 
 <!-- ========================================================= -->
 
@@ -609,66 +699,97 @@ Firebase
 <br>
 
 ```text
-+-------------------------------------------+
-|                                           |
-|       SIMPLE DESIGN                      |
-|              +                            |
-|       CLEAN CODE                          |
-|              +                            |
-|       USEFUL PRODUCTS                     |
-|              =                            |
-|       BETTER EXPERIENCES                  |
-|                                           |
-+-------------------------------------------+
+╭────────────────────────────────────────────╮
+│                                            │
+│             SIMPLE DESIGN                  │
+│                    +                       │
+│               CLEAN CODE                   │
+│                    +                       │
+│             USEFUL PRODUCTS                │
+│                    =                       │
+│           BETTER EXPERIENCES               │
+│                                            │
+╰────────────────────────────────────────────╯
 ```
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=3500&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&height=45&lines=MAKE+IT+USEFUL.;MAKE+IT+CLEAR.;MAKE+IT+FEEL+GOOD." alt="Design Philosophy Animation"/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=3000&pause=800&color=6F4E37&center=true&vCenter=true&width=650&height=45&lines=MAKE+IT+USEFUL.;MAKE+IT+CLEAR.;MAKE+IT+SIMPLE.;MAKE+IT+FEEL+GOOD."
+/>
 
 </div>
 
-<br>
+---
 
 <!-- ========================================================= -->
 
-<!--                           FOOTER                          -->
+<!--                          FOOTER                            -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=3&width=850" width="90%" alt="Divider"/>
+<br>
+
+```text
+          /\_/\\
+         ( o.o )
+          > ^ <
+           
+       ┌─────────────┐
+       │  COFFEE.EXE │
+       │   ONLINE     │
+       └─────────────┘
+```
+
+<img
+src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+width="120"
+alt="Pixel Cat"
+/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=3000&pause=900&color=6F4E37&center=true&vCenter=true&width=700&height=55&lines=%3E+THANKS+FOR+VISITING+CHRISTINE.EXE;%3E+SESSION+COMPLETE;%3E+SEE+YOU+IN+THE+NEXT+BUILD." alt="Footer Animation"/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=2800&pause=800&color=6F4E37&center=true&vCenter=true&width=750&height=55&lines=%3E+THANKS+FOR+VISITING+CHRISTINE.EXE;%3E+SESSION+COMPLETE;%3E+KEEP+BUILDING.;%3E+KEEP+CREATING.;%3E+KEEP+LEARNING."
+/>
 
 <br><br>
 
 ```text
-╔══════════════════════════════════════╗
-║                                      ║
-║       CHRISTINE.EXE                  ║
-║                                      ║
-║       STATUS: ONLINE                 ║
-║       BUILD: 2026                    ║
-║                                      ║
-║       KEEP BUILDING.                 ║
-║       KEEP CREATING.                 ║
-║       KEEP LEARNING.                 ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════╗
+║                                            ║
+║             CHRISTINE.EXE                 ║
+║                                            ║
+║             STATUS: ONLINE                ║
+║             BUILD: 2026                   ║
+║                                            ║
+║             KEEP BUILDING.                ║
+║             KEEP CREATING.                ║
+║             KEEP LEARNING.                ║
+║                                            ║
+╚════════════════════════════════════════════╝
 ```
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=120&section=footer" width="100%" alt="Footer Banner"/>
+<!-- ANIMATED FOOTER -->
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=130&section=footer"
+width="100%"
+/>
 
 </div>
 
 <!-- ========================================================= -->
 
-<!--                       END OF README                       -->
+<!--                         END                                -->
 
 <!-- ========================================================= -->
+
+```
+
+This version is intentionally **simpler than your original**, but the animation is more noticeable: animated header, typing effects, multiple cat animations, coffee-loading effect, terminal animation, GitHub stats, and animated footer.
+```
