@@ -4,17 +4,6 @@
 
 <br /><br />
 
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/Portfolio-6F4E37?style=for-the-badge&logo=googlechrome&logoColor=FFF8F0" alt="Portfolio" />
-</a>
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Contact-8B5E3C?style=for-the-badge&logo=gmail&logoColor=FFF8F0" alt="Contact" />
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-A67C52?style=for-the-badge&logo=linkedin&logoColor=FFF8F0" alt="LinkedIn" />
-</a>
-
-<br /><br />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=16&duration=3500&pause=900&color=6F4E37&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;I+turn+ideas+into+digital+experiences;Coffee%2C+code%2C+and+creativity" alt="Animated welcome message" />
 
