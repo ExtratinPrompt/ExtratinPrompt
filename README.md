@@ -50,9 +50,9 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 ## AI & Machine Learning
 
-<marquee direction="left" scrollamount="8">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python,jupyter,keras,openai" alt="AI and machine learning technologies" />
-</marquee>
+</p>
 
 ## Databases
 
