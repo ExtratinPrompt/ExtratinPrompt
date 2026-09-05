@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=220&section=header&text=Christine%20Praise%20Laput&fontSize=42&fontColor=FFF8F0&fontAlignY=35&animation=fadeIn" width="100%" alt="Christine Praise Laput header banner" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=18&duration=3000&pause=900&color=8B5E3C&center=true&vCenter=true&width=700&lines=Web+Developer+%26+Designer;Building+clean+digital+experiences;Code+%2B+Design+%2B+Creativity" alt="Animated introduction" />
 
 <br />
 
