@@ -74,16 +74,7 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 ---
 
-<div align="center">
 
-## Pacman Contribution Animation
-
-<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username.
-     Enable the Pacman GitHub Action in your profile repository first. -->
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%" />
-
-<br />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=4000&pause=1000&color=8B5E3C&center=true&vCenter=true&width=650&lines=Eating+commits+one+by+one;Keep+coding%2C+keep+creating;Every+contribution+counts" alt="Animated Pacman message" />
 
