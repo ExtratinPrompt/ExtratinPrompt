@@ -49,8 +49,7 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,figma,arduino,canva,gitbash,laragon" alt="Development tools" />
 <br>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLCbErvonnO-XqFSWAbFGSuM8z_FO4kWijUwiCXz4eCa6CtlF-eUDaII&s=10" alt="Cisco Packet Tracer" height="28" style="vertical-align:middle;margin-top:6px;" />
-</p>
+
 
 ---
 
