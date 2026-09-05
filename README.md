@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc3YTRrOWx6NzgyaG1lOGFmOWt4Z3QxaWkzdjhpbnFwOHRvMXV0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="450" alt="Animated GIF" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc3YTRrOWx6NzgyaG1lOGFmOWt4Z3QxaWkzdjhpbnFwOHRvMXV0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" alt="Animated GIF" />
 
 <br />
 
@@ -18,7 +18,7 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=900&color=6F4E37&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;I+turn+ideas+into+digital+experiences;Coffee%2C+code%2C+and+creativity" alt="Animated welcome message" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=16&duration=3500&pause=900&color=6F4E37&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;I+turn+ideas+into+digital+experiences;Coffee%2C+code%2C+and+creativity" alt="Animated welcome message" />
 
 <br />
 
@@ -78,7 +78,7 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=4000&pause=1000&color=8B5E3C&center=true&vCenter=true&width=650&lines=Eating+commits+one+by+one;Keep+coding%2C+keep+creating;Every+contribution+counts" alt="Animated Pacman message" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=16&duration=4000&pause=1000&color=8B5E3C&center=true&vCenter=true&width=650&lines=Eating+commits+one+by+one;Keep+coding%2C+keep+creating;Every+contribution+counts" alt="Animated Pacman message" />
 
 ---
 
