@@ -73,7 +73,7 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,figma,canva,arduino,gitbash" alt="Development tools" />
 </marquee>
 <marquee direction="right" scrollamount="8" width="50%">
-<img src="https://skillicons.dev/icons?i=laragon" alt="Laragon" height="28" style="vertical-align:middle;margin:0;padding:0;border:0;" /><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLCbErvonnO-XqFSWAbFGSuM8z_FO4kWijUwiCXz4eCa6CtlF-eUDaII&s=10" alt="Cisco Packet Tracer" height="28" style="vertical-align:middle;margin:0;padding:0;border:0;" /><img src="https://img.shields.io/badge/Xamun.ai-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Xamun.ai" height="28" style="vertical-align:middle;margin:0;padding:0;border:0;" />
+<img src="https://skillicons.dev/icons?i=laragon" alt="Laragon" height="28" style="vertical-align:middle;margin:0;padding:0;border:0;" /><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLCbErvonnO-XqFSWAbFGSuM8z_FO4kWijUwiCXz4eCa6CtlF-eUDaII&s=10" alt="Cisco Packet Tracer" height="28" style="vertical-align:middle;margin:0;padding:0;border:0;" />
 </marquee>
 </p>
 
@@ -109,13 +109,9 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 ### Design & Workflow
 
-**Design Tools**
+**Design Tools & Cisco**
 
-`Figma` · `Photoshop` · `Canva` · `Photopea`
-
-**AI Tools**
-
-`Xamun.ai`
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="24" style="vertical-align:middle;margin:0;padding:0;border:0;" /><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLCbErvonnO-XqFSWAbFGSuM8z_FO4kWijUwiCXz4eCa6CtlF-eUDaII&s=10" alt="Cisco Packet Tracer" height="24" style="vertical-align:middle;margin:0;padding:0;border:0;" />
 
 **Focus Areas**
 
@@ -128,7 +124,7 @@ Design Systems
 
 **Development Workflow**
 
-`Git` · `GitHub` · `Git Bash` · `VS Code` · `Postman` · `Cursor` · `Laragon` · `Arduino` · `Cisco Packet Tracer`
+`Git` · `GitHub` · `Git Bash` · `VS Code` · `Postman` · `Cursor` · `Laragon` · `Arduino`
 
 </td>
 </tr>
