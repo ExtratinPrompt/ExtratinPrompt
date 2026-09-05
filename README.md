@@ -36,7 +36,7 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 <p align="center">
 <marquee direction="right" scrollamount="8" width="60%">
-<img src="https://skillicons.dev/icons?i=python,cs,java,php,cpp,ts,c,dart" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=python,cs,java,php,cpp,ts,c" alt="Programming languages" />
 </marquee>
 </p>
 
@@ -66,7 +66,7 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 <p align="center">
 <marquee direction="right" scrollamount="8" width="60%">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb,firebase" alt="Database technologies" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb,firebase,supabase,oracle" alt="Database technologies" />
 </marquee>
 </p>
 
@@ -74,7 +74,12 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 <p align="center">
 <marquee direction="left" scrollamount="8" width="60%">
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman,linux,figma,canva" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,figma,canva,arduino,gitbash" alt="Development tools" />
+</p>
+
+<p align="center">
+<marquee direction="right" scrollamount="8" width="40%">
+<img src="https://skillicons.dev/icons?i=laragon" alt="Laragon and Cisco Packet Tracer" />
 </marquee>
 </p>
 
@@ -100,9 +105,9 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 `Node.js` · `Express` · `REST APIs` · `Laravel` · `PHP` · `Python`
 
-**Databases**
+**Databases & Tools**
 
-`MongoDB` · `MySQL` · `Firebase` · `Supabase` · `SQL`
+`MongoDB` · `MySQL` · `Firebase` · `Supabase` · `Oracle` · `SQL`
 
 </td>
 
@@ -125,7 +130,7 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 **Development Workflow**
 
-`Git` · `GitHub` · `VS Code` · `Postman` · `Cursor`
+`Git` · `GitHub` · `Git Bash` · `VS Code` · `Postman` · `Cursor` · `Laragon` · `Arduino` · `Cisco Packet Tracer`
 
 </td>
 </tr>
