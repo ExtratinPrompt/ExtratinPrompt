@@ -11,58 +11,93 @@
 <br />
 
 <a href="https://github.com/">
-  <img src="https://img.shields.io/badge/Portfolio-6F4E37?style=for-the-badge&logo=googlechrome&logoColor=FFF8F0" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-6F4E37?style=for-the-badge&logo=googlechrome&logoColor=FFF8F0" alt="Portfolio" />
 </a>
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Contact-8B5E3C?style=for-the-badge&logo=gmail&logoColor=FFF8F0" alt="Contact" />
+<img src="https://img.shields.io/badge/Contact-8B5E3C?style=for-the-badge&logo=gmail&logoColor=FFF8F0" alt="Contact" />
 </a>
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-A67C52?style=for-the-badge&logo=linkedin&logoColor=FFF8F0" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-A67C52?style=for-the-badge&logo=linkedin&logoColor=FFF8F0" alt="LinkedIn" />
 </a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-## About Me
-
-</div>
-
-I&apos;m **Christine Praise C. Laput**, a web developer and designer focused on creating functional, accessible, and visually refined digital experiences.
-
-I combine **web development, UI/UX design, and visual design** to transform ideas into practical applications. Like a carefully prepared cup of coffee, I believe great digital products should feel simple, intentional, and satisfying to use.
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=3&width=900" width="100%" alt="Section divider" />
-
-## Tech Stack
-
-### Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,python,php,laravel&perline=6" alt="HTML CSS JavaScript TypeScript React Tailwind Node.js Express Python PHP Laravel" />
-
-### Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&perline=6" alt="MongoDB MySQL Firebase Supabase" />
-
-### Design & Development Tools
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop,canva,git,github,vscode,postman&perline=7" alt="Figma Photoshop Canva Git GitHub VS Code Postman" />
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=3&width=900" width="100%" alt="Section divider" />
-
-## Expertise & Capabilities
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=900&color=6F4E37&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;I+turn+ideas+into+digital+experiences;Coffee%2C+code%2C+and+creativity" alt="Animated welcome message" />
 
 </div>
 
-<table align="center" width="100%">
+<br />
+
+## About Me
+
+I&apos;m **Christine Praise C. Laput**, a web developer and designer focused on creating functional, accessible, and visually refined digital experiences.
+
+I combine **web development, UI/UX design, and visual design** to transform ideas into practical applications.
+
+---
+
+<div align="center">
+
+## Programming Languages
+
+<marquee direction="right" scrollamount="8">
+<img src="https://skillicons.dev/icons?i=python,cs,java,php,cpp,ts,c,dart" alt="Programming languages" />
+</marquee>
+
+## Frontend Development
+
+<marquee direction="left" scrollamount="8">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux" alt="Frontend technologies" />
+</marquee>
+
+## Backend Development
+
+<marquee direction="right" scrollamount="8">
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,spring,kafka,rabbitmq" alt="Backend technologies" />
+</marquee>
+
+## AI & Machine Learning
+
+<marquee direction="left" scrollamount="8">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python,jupyter,keras,openai" alt="AI and machine learning technologies" />
+</marquee>
+
+## Databases
+
+<marquee direction="right" scrollamount="8">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb,firebase" alt="Database technologies" />
+</marquee>
+
+## Tools & Technologies
+
+<marquee direction="left" scrollamount="8">
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman,linux,figma,canva" alt="Development tools" />
+</marquee>
+
+</div>
+
+---
+
+<div align="center">
+
+## Pacman Contribution Animation
+
+<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username.
+     Enable the Pacman GitHub Action in your profile repository first. -->
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%" />
+
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=4000&pause=1000&color=8B5E3C&center=true&vCenter=true&width=650&lines=Eating+commits+one+by+one;Keep+coding%2C+keep+creating;Every+contribution+counts" alt="Animated Pacman message" />
+
+</div>
+
+---
+
+## Expertise & Capabilities
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -70,44 +105,23 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 **Frontend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28" alt="Tailwind CSS" />
-
 `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Tailwind CSS`
 
 **Backend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28" alt="Express.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="28" alt="Laravel" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28" alt="PHP" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" alt="Python" />
-
 `Node.js` · `Express` · `REST APIs` · `Laravel` · `PHP` · `Python`
 
-**Database**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" alt="MongoDB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" alt="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28" alt="Firebase" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="28" alt="Supabase" />
+**Databases**
 
 `MongoDB` · `MySQL` · `Firebase` · `Supabase` · `SQL`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Design & Workflow
 
 **Design Tools**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="28" alt="Figma" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="28" alt="Adobe Photoshop" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="28" alt="Canva" />
 
 `Figma` · `Photoshop` · `Canva` · `Photopea`
 
@@ -122,34 +136,29 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 **Development Workflow**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" alt="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" alt="Visual Studio Code" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="28" alt="Postman" />
-
 `Git` · `GitHub` · `VS Code` · `Postman` · `Cursor`
 
 </td>
 </tr>
 </table>
 
-<br />
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=4000&pause=1100&color=8B5E3C&center=true&vCenter=true&width=650&lines=Design+should+feel+simple.;Less+noise%2C+more+purpose.;Build+with+curiosity+and+care." alt="Animated design philosophy" />
+## GitHub Statistics
 
-<br /><br />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=6F4E37&icon_color=8B5E3C&text_color=6F4E37&bg_color=FFF8F0" alt="GitHub statistics" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=3&width=900" width="100%" alt="Section divider" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&ring=6F4E37&fire=8B5E3C&currStreakLabel=6F4E37&background=FFF8F0" alt="GitHub contribution streak" />
 
-## Background & Focus
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=6F4E37&text_color=6F4E37&bg_color=FFF8F0" alt="Most used programming languages" />
 
 </div>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
+---
+
+## Background & Focus
 
 ### Experience
 
@@ -162,9 +171,6 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 - Translating creative briefs into practical visuals
 - Building consistent and memorable visual identities
 
-</td>
-<td width="50%" valign="top">
-
 ### Education
 
 **B.S. in Information Technology**  
@@ -175,27 +181,19 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 *Inventory System of Ka. Margie Maganda with Smart Forecasting*
 
-</td>
-</tr>
-</table>
-
-<br />
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=3&width=900" width="100%" alt="Section divider" />
-
 ## Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,python,tailwind&perline=4" alt="TypeScript Node.js Python Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,python,tailwind&perline=4" alt="Currently exploring technologies" />
 
 <br /><br />
 
 `TypeScript` · `Node.js` · `Python` · `Tailwind CSS`
 
 <br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6F4E37&height=3&width=900" width="100%" alt="Section divider" />
 
 ## Let&apos;s Create Something Meaningful
 
