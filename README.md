@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="https://images.unsplash.com/photo-1511044568932-338cba0ad803?auto=format&fit=crop&w=1200&q=85" width="720" alt="Relaxed cat in a warm coffeehouse atmosphere" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc3YTRrOWx6NzgyaG1lOGFmOWt4Z3QxaWkzdjhpbnFwOHRvMXV0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="450" alt="Animated GIF" />
 
 <br />
 
