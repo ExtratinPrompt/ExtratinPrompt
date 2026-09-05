@@ -4,7 +4,6 @@
 
 <br /><br />
 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=16&duration=3500&pause=900&color=6F4E37&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;I+turn+ideas+into+digital+experiences;Coffee%2C+code%2C+and+creativity" alt="Animated welcome message" />
 
 ## About Me
@@ -49,6 +48,8 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,figma,arduino,canva,gitbash,laragon" alt="Development tools" />
+<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLCbErvonnO-XqFSWAbFGSuM8z_FO4kWijUwiCXz4eCa6CtlF-eUDaII&s=10" alt="Cisco Packet Tracer" height="28" style="vertical-align:middle;margin-top:6px;" />
 </p>
 
 ---
@@ -98,7 +99,7 @@ Design Systems
 
 **Development Workflow**
 
-`Git` · `GitHub` · `Git Bash` · `VS Code` · `Postman` · `Cursor` · `Laragon`
+`Git` · `GitHub` · `Git Bash` · `VS Code` · `Postman` · `Cursor` · `Laragon` · `Arduino` · `Cisco Packet Tracer`
 
 </td>
 </tr>
