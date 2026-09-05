@@ -32,21 +32,27 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 ## Programming Languages
 
-<marquee direction="right" scrollamount="8">
+<p align="center">
+<marquee direction="right" scrollamount="8" width="60%">
 <img src="https://skillicons.dev/icons?i=python,cs,java,php,cpp,ts,c,dart" alt="Programming languages" />
 </marquee>
+</p>
 
 ## Frontend Development
 
-<marquee direction="left" scrollamount="8">
+<p align="center">
+<marquee direction="left" scrollamount="8" width="60%">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux" alt="Frontend technologies" />
 </marquee>
+</p>
 
 ## Backend Development
 
-<marquee direction="right" scrollamount="8">
+<p align="center">
+<marquee direction="right" scrollamount="8" width="60%">
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,spring,kafka,rabbitmq" alt="Backend technologies" />
 </marquee>
+</p>
 
 ## AI & Machine Learning
 
@@ -56,15 +62,19 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 ## Databases
 
-<marquee direction="right" scrollamount="8">
+<p align="center">
+<marquee direction="right" scrollamount="8" width="60%">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb,firebase" alt="Database technologies" />
 </marquee>
+</p>
 
 ## Tools & Technologies
 
-<marquee direction="left" scrollamount="8">
+<p align="center">
+<marquee direction="left" scrollamount="8" width="60%">
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman,linux,figma,canva" alt="Development tools" />
 </marquee>
+</p>
 
 ---
 
