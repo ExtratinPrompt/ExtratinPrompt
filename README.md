@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <br />
 
@@ -20,8 +20,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=3500&pause=900&color=6F4E37&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;I+turn+ideas+into+digital+experiences;Coffee%2C+code%2C+and+creativity" alt="Animated welcome message" />
 
-</div>
-
 <br />
 
 ## About Me
@@ -31,8 +29,6 @@ I&apos;m **Christine Praise C. Laput**, a web developer and designer focused on 
 I combine **web development, UI/UX design, and visual design** to transform ideas into practical applications.
 
 ---
-
-<div align="center">
 
 ## Programming Languages
 
@@ -70,15 +66,9 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman,linux,figma,canva" alt="Development tools" />
 </marquee>
 
-</div>
-
 ---
 
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=16&duration=4000&pause=1000&color=8B5E3C&center=true&vCenter=true&width=650&lines=Eating+commits+one+by+one;Keep+coding%2C+keep+creating;Every+contribution+counts" alt="Animated Pacman message" />
-
-</div>
 
 ---
 
@@ -86,7 +76,7 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### Development
 
@@ -104,7 +94,7 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### Design & Workflow
 
@@ -129,8 +119,4 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 </tr>
 </table>
 
----
-
-<div align="center">
-
-
+</div>
