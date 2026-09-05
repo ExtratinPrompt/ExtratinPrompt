@@ -1,12 +1,8 @@
 <div align="center">
 
-<br />
-
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc3YTRrOWx6NzgyaG1lOGFmOWt4Z3QxaWkzdjhpbnFwOHRvMXV0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" alt="Animated GIF" />
 
 <br />
-
-<br /><br />
 
 <a href="https://github.com/">
 <img src="https://img.shields.io/badge/Portfolio-6F4E37?style=for-the-badge&logo=googlechrome&logoColor=FFF8F0" alt="Portfolio" />
@@ -18,11 +14,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-A67C52?style=for-the-badge&logo=linkedin&logoColor=FFF8F0" alt="LinkedIn" />
 </a>
 
-<br /><br />
+<br />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=16&duration=3500&pause=900&color=6F4E37&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;I+turn+ideas+into+digital+experiences;Coffee%2C+code%2C+and+creativity" alt="Animated welcome message" />
-
-<br />
 
 ## About Me
 
@@ -83,7 +77,7 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 <p align="center">
 <marquee direction="right" scrollamount="8" width="50%">
 <img src="https://skillicons.dev/icons?i=laragon" alt="Laragon" />
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-%2300BCEB.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLCbErvonnO-XqFSWAbFGSuM8z_FO4kWijUwiCXz4eCa6CtlF-eUDaII&s=10" height="28" alt="Cisco Packet Tracer" />
 <img src="https://img.shields.io/badge/Xamun.ai-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Xamun.ai" />
 </marquee>
 </p>
