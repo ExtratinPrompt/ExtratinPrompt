@@ -70,10 +70,8 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 <p align="center">
 <marquee direction="left" scrollamount="8" width="60%">
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,figmax,arduino,canva,gitbash" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,figma,arduino,canva,gitbash,laragon" alt="Development tools" />
 </marquee>
-<br>
-<img src="https://skillicons.dev/icons?i=laragon" alt="Laragon" height="28" style="vertical-align:middle;margin:0;padding:0;border:0;" />
 </p>
 
 ---
