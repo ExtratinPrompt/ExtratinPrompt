@@ -75,12 +75,12 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 <p align="center">
 <marquee direction="left" scrollamount="8" width="60%">
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,figma,canva,arduino,gitbash" alt="Development tools" />
+</marquee>
 </p>
 
 <p align="center">
 <marquee direction="right" scrollamount="8" width="40%">
-<img src="https://skillicons.dev/icons?i=laragon" alt="Laragon and Cisco Packet Tracer" />
-</marquee>
+<img src="https://skillicons.dev/icons?i=laragon" alt="Laragon" />
 </p>
 
 ---
@@ -99,15 +99,15 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 **Frontend**
 
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Tailwind CSS`
+`🌐` `HTML` · `🎨` `CSS` · `📜` `JavaScript` · `📘` `TypeScript` · `⚛️` `React` · `🌊` `Tailwind CSS`
 
 **Backend**
 
-`Node.js` · `Express` · `REST APIs` · `Laravel` · `PHP` · `Python`
+`🟢` `Node.js` · `🚂` `Express` · `🔌` `REST APIs` · `❤️` `Laravel` · `🐘` `PHP` · `🐍` `Python`
 
 **Databases & Tools**
 
-`MongoDB` · `MySQL` · `Firebase` · `Supabase` · `Oracle` · `SQL`
+`🍃` `MongoDB` · `🐬` `MySQL` · `🔥` `Firebase` · `⚡` `Supabase` · `🏛️` `Oracle` · `📊` `SQL`
 
 </td>
 
@@ -117,20 +117,24 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 **Design Tools**
 
-`Figma` · `Photoshop` · `Canva` · `Photopea`
+`🎯` `Figma` · `🖼️` `Photoshop` · `✨` `Canva` · `🖌️` `Photopea`
+
+**AI Tools**
+
+`🤖` `Xamun.ai`
 
 **Focus Areas**
 
-- UI/UX Design
-- Wireframing
-- Prototyping
-- Responsive Layouts
-- Visual Systems
-- Design Systems
+- `📐` UI/UX Design
+- `📋` Wireframing
+- `📱` Prototyping
+- `📐` Responsive Layouts
+- `👁️` Visual Systems
+- `📚` Design Systems
 
 **Development Workflow**
 
-`Git` · `GitHub` · `Git Bash` · `VS Code` · `Postman` · `Cursor` · `Laragon` · `Arduino` · `Cisco Packet Tracer`
+`🌱` `Git` · `🐙` `GitHub` · `💻` `Git Bash` · `⚙️` `VS Code` · `🚀` `Postman` · `✨` `Cursor` · `🍃` `Laragon` · `🤖` `Arduino` · `🌐` `Cisco Packet Tracer`
 
 </td>
 </tr>
