@@ -29,49 +29,85 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 ## Programming Languages
 
 <div align="center">
-<marquee direction="right" scrollamount="8" width="60%">
-<img src="https://skillicons.dev/icons?i=python,cs,java,php,cpp,ts,c" alt="Programming languages" />
+<table align="center" style="margin: 0 auto; border-collapse: collapse;">
+<tr>
+<td align="center" style="border: none;">
+<marquee direction="right" scrollamount="8" width="550" truespeed>
+<img src="https://skillicons.dev/icons?i=python,cs,java,php,cpp,ts,c" alt="Programming languages" style="display: inline-block; vertical-align: middle;" />
 </marquee>
+</td>
+</tr>
+</table>
 </div>
 
 ## Frontend Development
 
 <div align="center">
-<marquee direction="right" scrollamount="8" width="60%">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux" alt="Frontend technologies" />
+<table align="center" style="margin: 0 auto; border-collapse: collapse;">
+<tr>
+<td align="center" style="border: none;">
+<marquee direction="right" scrollamount="8" width="550" truespeed>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux" alt="Frontend technologies" style="display: inline-block; vertical-align: middle;" />
 </marquee>
+</td>
+</tr>
+</table>
 </div>
 
 ## Backend Development
 
 <div align="center">
-<marquee direction="right" scrollamount="8" width="60%">
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,spring,kafka,rabbitmq" alt="Backend technologies" />
+<table align="center" style="margin: 0 auto; border-collapse: collapse;">
+<tr>
+<td align="center" style="border: none;">
+<marquee direction="right" scrollamount="8" width="550" truespeed>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,spring,kafka,rabbitmq" alt="Backend technologies" style="display: inline-block; vertical-align: middle;" />
 </marquee>
+</td>
+</tr>
+</table>
 </div>
 
 ## AI & Machine Learning
 
 <div align="center">
-<marquee direction="right" scrollamount="8" width="60%">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python,jupyter,keras,openai" alt="AI and machine learning technologies" />
+<table align="center" style="margin: 0 auto; border-collapse: collapse;">
+<tr>
+<td align="center" style="border: none;">
+<marquee direction="right" scrollamount="8" width="550" truespeed>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python,jupyter,keras,openai" alt="AI and machine learning technologies" style="display: inline-block; vertical-align: middle;" />
 </marquee>
+</td>
+</tr>
+</table>
 </div>
 
 ## Databases
 
 <div align="center">
-<marquee direction="right" scrollamount="8" width="60%">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb,firebase,supabase,oracle" alt="Database technologies" />
+<table align="center" style="margin: 0 auto; border-collapse: collapse;">
+<tr>
+<td align="center" style="border: none;">
+<marquee direction="right" scrollamount="8" width="550" truespeed>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb,firebase,supabase,oracle" alt="Database technologies" style="display: inline-block; vertical-align: middle;" />
 </marquee>
+</td>
+</tr>
+</table>
 </div>
 
 ## Tools & Technologies
 
 <div align="center">
-<marquee direction="right" scrollamount="8" width="60%">
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,figma,arduino,canva,gitbash,laragon" alt="Development tools" />
+<table align="center" style="margin: 0 auto; border-collapse: collapse;">
+<tr>
+<td align="center" style="border: none;">
+<marquee direction="right" scrollamount="8" width="550" truespeed>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,figma,arduino,canva,gitbash,laragon" alt="Development tools" style="display: inline-block; vertical-align: middle;" />
 </marquee>
+</td>
+</tr>
+</table>
 </div>
 
 ---
