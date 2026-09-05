@@ -96,59 +96,50 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 ## Expertise & Capabilities
 
-<p align="center">
-<marquee direction="left" scrollamount="6" width="80%">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,laravel,php,python,mongodb,mysql,firebase,supabase,oracle,git,github,vscode,postman,figma,canva,arduino,laragon" alt="Expertise and capabilities tech stack" />
-</marquee>
-</p>
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top" align="center">
 
 ### Development
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend" height="28" />
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Tailwind CSS`
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python" alt="Backend" height="28" />
+`Node.js` · `Express` · `REST APIs` · `Laravel` · `PHP` · `Python`
 
 **Databases & Tools**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,oracle" alt="Databases" height="28" />
+`MongoDB` · `MySQL` · `Firebase` · `Supabase` · `Oracle` · `SQL`
 
 </td>
 
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top" align="center">
 
 ### Design & Workflow
 
 **Design Tools**
 
-<img src="https://skillicons.dev/icons?i=figma,canva" alt="Design Tools" height="28" />
+`Figma` · `Photoshop` · `Canva` · `Photopea`
 
 **AI Tools**
 
-<img src="https://img.shields.io/badge/Xamun.ai-000000?style=flat-square&logo=openai&logoColor=white" alt="Xamun.ai" />
+`Xamun.ai`
 
 **Focus Areas**
 
-- UI/UX Design
-- Wireframing
-- Prototyping
-- Responsive Layouts
-- Visual Systems
-- Design Systems
+UI/UX Design<br>
+Wireframing<br>
+Prototyping<br>
+Responsive Layouts<br>
+Visual Systems<br>
+Design Systems
 
 **Development Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,arduino" alt="Workflow Tools" height="28" />
-<br>
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-%2300BCEB.svg?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-<img src="https://img.shields.io/badge/Laragon-111111?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laragon" />
+`Git` · `GitHub` · `Git Bash` · `VS Code` · `Postman` · `Cursor` · `Laragon` · `Arduino` · `Cisco Packet Tracer`
 
 </td>
 </tr>
