@@ -69,15 +69,9 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 ## Tools & Technologies
 
 <div align="center">
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto; text-align: center;">
-<tr>
-<td align="center" style="padding: 0; margin: 0; line-height: 0;">
-<marquee direction="right" scrollamount="8" width="550" truespeed>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,figma,arduino,canva,gitbash,laragon" alt="Development tools" style="display: inline-block; vertical-align: middle; margin: 0; padding: 0;" />
+<marquee direction="right" scrollamount="8" width="60%">
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,figma,arduino,canva,gitbash,laragon" alt="Development tools" />
 </marquee>
-</td>
-</tr>
-</table>
 </div>
 
 ---
